@@ -1,0 +1,975 @@
+Ciudad;Lugar;Cliente;Vendedor;Territorio;Socio;Ventas;Cantidad;Producto;Fecha;Precio_Unitario;Nivel_Venta
+Huancayo;Peru;CORPORACION GRAFICA NAVARRETE;Jose;Sur;Ringo;173330;24;Accesorios;30/04/2016;7222,083333;Media
+Arequipa;Peru;San Martin Inc;Victor;Norte;Ringo;235562;16;Viajes;22/04/2016;14722,625;Alta
+Arequipa;Peru;Unique, S.A.;Victor;Norte;Ringo;98041;33;Viajes;22/04/2016;2970,939394;Bajo
+Arequipa;Peru;Banco Interno;Victor;Norte;Ringo;112955;30;Viajes;21/04/2016;3765,166667;Media
+Cusco;Peru;Americana de Contactos;Victor;Norte;John;183858;31;Juguetes;29/04/2016;5930,903226;Media
+Cajamarca;Peru;Gloria;Victor;Norte;Ringo;232459;29;Viajes;22/04/2016;8015,827586;Alta
+Piura;Peru;CORPORACION GRAFICA NAVARRETE;Jose;Sur;Ringo;249370;27;Juguetes;30/04/2016;9235,925926;Alta
+Piura;Peru;Profuturo AFP;Victor;Norte;Ringo;149041;24;Viajes;13/04/2016;6210,041667;Media
+Lima;Peru;Seguros Internos SAC;Edwin;Norte;John;186253;17;Accesorios;26/08/2015;10956,05882;Media
+Lima;Peru;Servicios Generales;Victor;Norte;John;154709;37;Calzado;31/08/2015;4181,324324;Media
+Trujillo;Peru;IFH Peru LTD;Edwin;Norte;Ringo;198586;28;Accesorios;14/08/2015;7092,357143;Media
+Trujillo;Peru;BOTICAS & SALUD S.A.C.;Nadia;Sur;Ringo;100738;15;Electrodomesticos;19/08/2015;6715,866667;Media
+Trujillo;Peru;Supermercados Peruanos S.A.;Victor;Norte;John;157832;40;Juguetes;31/08/2015;3945,8;Media
+Trujillo;Peru;Supermercados Peruanos S.A.;Victor;Norte;John;244028;24;Accesorios;31/08/2015;10167,83333;Alta
+Huancayo;Peru;San Martin Inc;Marco;Sur;Ringo;164158;28;Electrodomesticos;28/08/2015;5862,785714;Media
+Huancayo;Peru;IFH Peru LTD;Maria;Norte;John;237486;36;Viajes;31/08/2015;6596,833333;Alta
+Huancayo;Peru;OMNIA SOLUTION S.A.;Edwin;Sur;Ringo;236324;25;Viajes;21/08/2015;9452,96;Alta
+Loreto;Peru;TEXFINA S.A.;Nadia;Sur;Ringo;175071;38;Electrodomesticos;31/08/2015;4607,131579;Media
+Loreto;Peru;IFH Peru LTD;Victor;Norte;Ringo;145417;22;Accesorios;14/08/2015;6609,863636;Media
+Loreto;Peru;IFH Peru LTD;Edwin;Norte;Ringo;164588;41;Electrodomesticos;14/08/2015;4014,341463;Media
+Loreto;Peru;NEXTEL PERU S.A.;Victor;Norte;Ringo;197823;28;Viajes;13/08/2015;7065,107143;Media
+Loreto;Peru;SANDOVAL S.A. - DINET;Rosa;Sur;Ringo;164603;35;Electrodomesticos;27/08/2015;4702,942857;Media
+Loreto;Peru;MOLINOS & CIA S.A.;Marco;Sur;Ringo;62393;38;Electrodomesticos;28/08/2015;1641,921053;Bajo
+Loreto;Peru;Banco Inca;Edwin;Norte;Ringo;236606;36;Viajes;14/08/2015;6572,388889;Alta
+Loreto;Peru;Compañia Minera Poderosa, S.A.;Victor;Norte;Ringo;141965;24;Viajes;31/08/2015;5915,208333;Media
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;79057;32;Calzado;31/08/2015;2470,53125;Bajo
+Loreto;Peru;Banco Interno;Nora;Sur;Ringo;169756;38;Juguetes;20/08/2015;4467,263158;Media
+Loreto;Peru;IFH Peru LTD;Maria;Norte;Ringo;136293;27;Accesorios;14/08/2015;5047,888889;Media
+Loreto;Peru;MOLINOS & CIA S.A.;Marco;Sur;Ringo;161296;23;Electrodomesticos;28/08/2015;7012,869565;Media
+Loreto;Peru;Seguros Internos SAC;Victor;Norte;John;137877;22;Juguetes;31/08/2015;6267,136364;Media
+Loreto;Peru;IFH Peru LTD;Maria;Norte;Ringo;71518;39;Electrodomesticos;14/08/2015;1833,794872;Bajo
+Loreto;Peru;IFH Peru LTD;Maria;Norte;Ringo;106536;15;Electrodomesticos;14/08/2015;7102,4;Media
+Loreto;Peru;SIERRA MACHINES S.A.C.;Marco;Sur;Ringo;120304;29;Accesorios;31/08/2015;4148,413793;Media
+Loreto;Peru;IFH Peru LTD;Maria;Norte;Ringo;105978;22;Electrodomesticos;14/08/2015;4817,181818;Media
+Loreto;Peru;IFH Peru LTD;Edwin;Norte;Ringo;216366;29;Electrodomesticos;14/08/2015;7460,896552;Alta
+Loreto;Peru;Periodicos Nuevos;Nora;Sur;John;124995;32;Viajes;28/08/2015;3906,09375;Media
+Loreto;Peru;IFH Peru LTD;Maria;Norte;Ringo;217511;28;Accesorios;14/08/2015;7768,25;Alta
+Arequipa;Peru;Supermercados Peruanos S.A.;Victor;Norte;John;96052;42;Juguetes;31/08/2015;2286,952381;Bajo
+Arequipa;Peru;Norsemont Peru, S.A.C.;Marco;Sur;John;190081;21;Electrodomesticos;20/08/2015;9051,47619;Media
+Arequipa;Peru;IFH Peru LTD;Edwin;Norte;Ringo;116835;32;Juguetes;14/08/2015;3651,09375;Media
+Arequipa;Peru;Seguros Internos SAC;Victor;Norte;John;102237;21;Accesorios;31/08/2015;4868,428571;Media
+Arequipa;Peru;Seguros Internos SAC;Victor;Norte;John;143392;39;Juguetes;31/08/2015;3676,717949;Media
+Arequipa;Peru;IFH Peru LTD;Victor;Norte;Ringo;126641;19;Accesorios;14/08/2015;6665,315789;Media
+Arequipa;Peru;IFH Peru LTD;Maria;Norte;Ringo;195820;34;Juguetes;14/08/2015;5759,411765;Media
+Arequipa;Peru;IFH Peru LTD;Edwin;Norte;Ringo;110491;31;Accesorios;14/08/2015;3564,225806;Media
+Arequipa;Peru;HIDROSTAL S.A.;Nadia;Sur;George;68830;22;Accesorios;19/08/2015;3128,636364;Bajo
+Arequipa;Peru;Supermercados Peruanos S.A.;Victor;Norte;John;149151;16;Accesorios;31/08/2015;9321,9375;Media
+Arequipa;Peru;RIMAC Corp;Victor;Norte;Ringo;108513;24;Viajes;24/08/2015;4521,375;Media
+Arequipa;Peru;IFH Peru LTD;Maria;Norte;Ringo;181185;18;Juguetes;14/08/2015;10065,83333;Media
+Arequipa;Peru;Seguros Internos SAC;Victor;Norte;John;51754;20;Accesorios;31/08/2015;2587,7;Bajo
+Arequipa;Peru;AUSTRAL Inc;Rosa;Sur;Ringo;111529;29;Electrodomesticos;19/08/2015;3845,827586;Media
+Arequipa;Peru;LUCKY S.A.C.;Rosa;Sur;Ringo;194179;32;Accesorios;24/08/2015;6068,09375;Media
+Arequipa;Peru;IFH Peru LTD;Edwin;Norte;Ringo;164188;42;Electrodomesticos;14/08/2015;3909,238095;Media
+Arequipa;Peru;Seguros Internos SAC;Edwin;Norte;John;121544;16;Juguetes;26/08/2015;7596,5;Media
+Arequipa;Peru;Seguros Internos SAC;Victor;Norte;John;132595;16;Accesorios;31/08/2015;8287,1875;Media
+Arequipa;Peru;HUDBAY PERU S.A.C.;Rosa;Sur;Ringo;170365;17;Electrodomesticos;20/08/2015;10021,47059;Media
+Arequipa;Peru;Radios Unidos por el pais;Rosa;Sur;John;113234;25;Electrodomesticos;13/08/2015;4529,36;Media
+Arequipa;Peru;IFH Peru LTD;Maria;Norte;Ringo;226741;26;Juguetes;14/08/2015;8720,807692;Alta
+Arequipa;Peru;COMPARTAMOS FINANCIERA S.A.;Nora;Sur;John;206321;21;Electrodomesticos;12/08/2015;9824,809524;Alta
+Arequipa;Peru;IFH Peru LTD;Edwin;Norte;Ringo;69721;28;Electrodomesticos;14/08/2015;2490,035714;Bajo
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Paul;76974;17;Calzado;31/08/2015;4527,882353;Bajo
+Arequipa;Peru;HIDROSTAL S.A.;Nadia;Sur;George;174407;22;Accesorios;19/08/2015;7927,590909;Media
+Arequipa;Peru;Seguros Internos SAC;Victor;Norte;John;149823;40;Accesorios;31/08/2015;3745,575;Media
+Arequipa;Peru;IFH Peru LTD;Victor;Norte;John;68074;18;Electrodomesticos;17/08/2015;3781,888889;Bajo
+Cusco;Peru;Minera Norteña;Rosa;Sur;Ringo;204873;39;Viajes;28/08/2015;5253,153846;Alta
+Cusco;Peru;IFH Peru LTD;Edwin;Norte;Ringo;135721;34;Calzado;14/08/2015;3991,794118;Media
+Cusco;Peru;Seguros Internos SAC;Victor;Norte;John;239233;20;Calzado;31/08/2015;11961,65;Alta
+Cusco;Peru;Seguros Internos SAC;Victor;Norte;John;203792;26;Juguetes;31/08/2015;7838,153846;Alta
+Cusco;Peru;Tiendas Wang;Rosa;Sur;Ringo;72604;31;Juguetes;28/08/2015;2342,064516;Bajo
+Cusco;Peru;SIERRA MACHINES S.A.C.;Marco;Sur;Ringo;202638;39;Electrodomesticos;31/08/2015;5195,846154;Alta
+Cusco;Peru;Importaciones D A F T;Marco;Sur;Ringo;53364;26;Electrodomesticos;19/08/2015;2052,461538;Bajo
+Cusco;Peru;IFH Peru LTD;Victor;Norte;Ringo;242535;21;Viajes;21/08/2015;11549,28571;Alta
+Cusco;Peru;Seguros Internos SAC;Victor;Norte;John;242600;20;Accesorios;31/08/2015;12130;Alta
+Cusco;Peru;Seguros Internos SAC;Victor;Norte;John;154734;25;Accesorios;31/08/2015;6189,36;Media
+Cusco;Peru;Seguros Internos SAC;Victor;Norte;John;234847;31;Electrodomesticos;31/08/2015;7575,709677;Alta
+Cusco;Peru;Seguros Internos SAC;Victor;Norte;John;205722;25;Juguetes;31/08/2015;8228,88;Alta
+Cusco;Peru;SIERRA MACHINES S.A.C.;Marco;Sur;Ringo;200068;15;Accesorios;31/08/2015;13337,86667;Alta
+Cusco;Peru;Tiendas Wang;Rosa;Sur;Ringo;175818;40;Juguetes;28/08/2015;4395,45;Media
+Cusco;Peru;MOLINOS & CIA S.A.;Rosa;Sur;Ringo;158704;19;Viajes;28/08/2015;8352,842105;Media
+Cajamarca;Peru;IFH Peru LTD;Edwin;Norte;Ringo;104352;38;Accesorios;14/08/2015;2746,105263;Media
+Cajamarca;Peru;Periodicos Nuevos;Nadia;Sur;John;130549;28;Electrodomesticos;28/08/2015;4662,464286;Media
+Cajamarca;Peru;Tiendas Wang;Rosa;Sur;Ringo;124082;28;Calzado;28/08/2015;4431,5;Media
+Cajamarca;Peru;Supermercados Peruanos S.A.;Victor;Norte;John;237385;26;Juguetes;31/08/2015;9130,192308;Alta
+Cajamarca;Peru;Electro Este;Edwin;Sur;John;245254;19;Electrodomesticos;24/08/2015;12908,10526;Alta
+Cajamarca;Peru;BOTICAS & SALUD S.A.C.;Nadia;Sur;Ringo;231817;41;Electrodomesticos;19/08/2015;5654,073171;Alta
+Cajamarca;Peru;IFH Peru LTD;Maria;Norte;Ringo;114877;23;Electrodomesticos;14/08/2015;4994,652174;Media
+Piura;Peru;Servicios Generales;Maria;Norte;Ringo;167095;42;Accesorios;31/08/2015;3978,452381;Media
+Piura;Peru;Importaciones D A F T;Marco;Sur;Ringo;111841;25;Juguetes;19/08/2015;4473,64;Media
+Piura;Peru;Seguros Internos SAC;Victor;Norte;John;103662;18;Accesorios;31/08/2015;5759;Media
+Piura;Peru;Seguros Internos SAC;Edwin;Norte;John;202094;38;Accesorios;26/08/2015;5318,263158;Alta
+Piura;Peru;BOTICAS & SALUD S.A.C.;Nadia;Sur;Ringo;107557;26;Electrodomesticos;19/08/2015;4136,807692;Media
+Piura;Peru;MOLINOS & CIA S.A.;Rosa;Sur;Ringo;139514;28;Viajes;28/08/2015;4982,642857;Media
+Piura;Peru;TEXTIL DEL VALLE S.A.;Nora;Sur;Ringo;123929;37;Viajes;31/08/2015;3349,432432;Media
+Piura;Peru;Radios Unidos por el pais;Maria;Norte;Ringo;142783;23;Viajes;21/08/2015;6207,956522;Media
+Piura;Peru;IFH Peru LTD;Edwin;Norte;Ringo;169909;16;Accesorios;14/08/2015;10619,3125;Media
+Lima;Peru;Gloria;Jose;Sur;Ringo;83240;15;Electrodomesticos;01/12/2015;5549,333333;Bajo
+Lima;Peru;Tractores Unidos;Victor;Norte;Ringo;129703;24;Calzado;31/12/2015;5404,291667;Media
+Trujillo;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;168289;28;Accesorios;01/12/2015;6010,321429;Media
+Trujillo;Peru;Supermercados Peruanos S.A.;Victor;Norte;Ringo;80286;29;Viajes;31/12/2015;2768,482759;Bajo
+Trujillo;Peru;Automotores Distribuidos;Nora;Sur;Ringo;172701;21;Electrodomesticos;15/12/2015;8223,857143;Media
+Huancayo;Peru;Maquillajes Unidos;Victor;Norte;Ringo;190132;28;Juguetes;15/12/2015;6790,428571;Media
+Huancayo;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;241320;33;Juguetes;01/12/2015;7312,727273;Alta
+Huancayo;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;135809;18;Accesorios;01/12/2015;7544,944444;Media
+Huancayo;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;172082;30;Juguetes;01/12/2015;5736,066667;Media
+Huancayo;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;151283;29;Accesorios;01/12/2015;5216,655172;Media
+Huancayo;Peru;Compañia Minera Poderosa, S.A.;Jose;Sur;Ringo;219157;15;Accesorios;01/12/2015;14610,46667;Alta
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;62548;24;Accesorios;25/12/2015;2606,166667;Bajo
+Loreto;Peru;Gloria;Jose;Sur;Ringo;134349;21;Electrodomesticos;01/12/2015;6397,571429;Media
+Loreto;Peru;Gloria;Jose;Sur;Ringo;110899;25;Electrodomesticos;01/12/2015;4435,96;Media
+Loreto;Peru;FORZA S.A.;Jose;Sur;Ringo;226877;23;Viajes;15/12/2015;9864,217391;Alta
+Loreto;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;210657;36;Accesorios;01/12/2015;5851,583333;Alta
+Loreto;Peru;Servicios Generales;Victor;Norte;Ringo;60791;15;Calzado;31/12/2015;4052,733333;Bajo
+Loreto;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;175961;19;Accesorios;01/12/2015;9261,105263;Media
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;126313;36;Calzado;25/12/2015;3508,694444;Media
+Loreto;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;128603;30;Juguetes;01/12/2015;4286,766667;Media
+Loreto;Peru;Radios Unidos por el pais;Victor;Norte;Ringo;179961;15;Calzado;30/12/2015;11997,4;Media
+Loreto;Peru;Periodicos Nuevos;Jose;Sur;John;191978;41;Calzado;31/12/2015;4682,390244;Media
+Loreto;Peru;JJC Contratistas;Nora;Sur;Ringo;205687;41;Calzado;29/12/2015;5016,756098;Alta
+Loreto;Peru;ALS PERU;Marco;Sur;Ringo;205729;28;Calzado;23/12/2015;7347,464286;Alta
+Loreto;Peru;TELCO Internacional;Victor;Norte;Ringo;245880;30;Electrodomesticos;30/12/2015;8196;Alta
+Loreto;Peru;Gloria;Jose;Sur;Ringo;127962;23;Electrodomesticos;01/12/2015;5563,565217;Media
+Loreto;Peru;TELCO Internacional;Victor;Norte;Ringo;167037;20;Electrodomesticos;30/12/2015;8351,85;Media
+Loreto;Peru;Estudio de abogados ZZT;Rosa;Sur;John;184766;31;Juguetes;31/12/2015;5960,193548;Media
+Loreto;Peru;Estudio de abogados ZZT;Rosa;Sur;John;162092;37;Accesorios;31/12/2015;4380,864865;Media
+Loreto;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;234372;28;Accesorios;01/12/2015;8370,428571;Alta
+Arequipa;Peru;Automotores Distribuidos;Nora;Sur;Ringo;67864;41;Electrodomesticos;15/12/2015;1655,219512;Bajo
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Jose;Sur;Ringo;152749;25;Calzado;01/12/2015;6109,96;Media
+Arequipa;Peru;Gloria;Jose;Sur;Ringo;127024;39;Electrodomesticos;01/12/2015;3257,025641;Media
+Arequipa;Peru;Gloria;Jose;Sur;Ringo;122450;31;Electrodomesticos;01/12/2015;3950;Media
+Arequipa;Peru;H V CONTRATISTAS S.A.;Rosa;Sur;John;200134;24;Electrodomesticos;21/12/2015;8338,916667;Alta
+Arequipa;Peru;Estudio de abogados ZZT;Rosa;Sur;John;58563;35;Juguetes;31/12/2015;1673,228571;Bajo
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;219350;39;Accesorios;01/12/2015;5624,358974;Alta
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Jose;Sur;Ringo;147048;35;Accesorios;01/12/2015;4201,371429;Media
+Arequipa;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;58680;19;Juguetes;25/12/2015;3088,421053;Bajo
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;52997;42;Electrodomesticos;01/12/2015;1261,833333;Bajo
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Jose;Sur;Ringo;137646;24;Accesorios;01/12/2015;5735,25;Media
+Arequipa;Peru;LA ARENA S.A.;Rosa;Sur;Ringo;119235;18;Electrodomesticos;01/12/2015;6624,166667;Media
+Arequipa;Peru;JJC Contratistas;Nora;Sur;John;180137;42;Electrodomesticos;21/12/2015;4288,97619;Media
+Arequipa;Peru;RIMAC Corp;Victor;Norte;John;151194;28;Accesorios;25/12/2015;5399,785714;Media
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;90433;19;Accesorios;01/12/2015;4759,631579;Bajo
+Cusco;Peru;Banco Interno;Maria;Norte;Ringo;130695;28;Viajes;31/12/2015;4667,678571;Media
+Cusco;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;59570;32;Accesorios;01/12/2015;1861,5625;Bajo
+Cusco;Peru;Servicios Generales;Victor;Norte;Ringo;205191;23;Accesorios;31/12/2015;8921,347826;Alta
+Cusco;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;185827;30;Juguetes;25/12/2015;6194,233333;Media
+Cusco;Peru;Estudio de abogados ZZT;Rosa;Sur;John;195136;37;Electrodomesticos;31/12/2015;5273,945946;Media
+Cusco;Peru;Gloria;Jose;Sur;Ringo;156943;39;Electrodomesticos;01/12/2015;4024,179487;Media
+Cusco;Peru;NEXTEL PERU S.A.;Victor;Norte;Ringo;117907;22;Juguetes;31/12/2015;5359,409091;Media
+Cusco;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;75131;20;Accesorios;01/12/2015;3756,55;Bajo
+Cusco;Peru;Gloria;Jose;Sur;Ringo;167729;38;Electrodomesticos;01/12/2015;4413,921053;Media
+Cusco;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;113856;20;Accesorios;01/12/2015;5692,8;Media
+Cusco;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;133544;24;Accesorios;01/12/2015;5564,333333;Media
+Cusco;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;135581;17;Accesorios;01/12/2015;7975,352941;Media
+Cusco;Peru;TELCO Internacional;Victor;Norte;Ringo;190024;34;Viajes;31/12/2015;5588,941176;Media
+Cajamarca;Peru;ALS PERU;Marco;Sur;Ringo;220732;23;Juguetes;23/12/2015;9597,043478;Alta
+Cajamarca;Peru;Sociedad de Mineria Nueva;Marco;Sur;John;245623;41;Electrodomesticos;23/12/2015;5990,804878;Alta
+Cajamarca;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;204029;16;Juguetes;01/12/2015;12751,8125;Alta
+Cajamarca;Peru;Gloria;Jose;Sur;Ringo;148290;38;Electrodomesticos;01/12/2015;3902,368421;Media
+Cajamarca;Peru;Gloria;Jose;Sur;Ringo;203682;35;Electrodomesticos;01/12/2015;5819,485714;Alta
+Cajamarca;Peru;NEXTEL PERU S.A.;Victor;Norte;Ringo;188033;36;Calzado;31/12/2015;5223,138889;Media
+Cajamarca;Peru;Profuturo AFP;Maria;Norte;John;67771;23;Accesorios;31/12/2015;2946,565217;Bajo
+Cajamarca;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;135986;33;Accesorios;01/12/2015;4120,787879;Media
+Cajamarca;Peru;Gloria;Jose;Sur;Ringo;246000;17;Electrodomesticos;01/12/2015;14470,58824;Alta
+Cajamarca;Peru;Eckerd Peru, S.A.;Victor;Norte;Ringo;126670;22;Viajes;31/12/2015;5757,727273;Media
+Piura;Peru;LA ARENA S.A.;Rosa;Sur;Ringo;211989;24;Electrodomesticos;01/12/2015;8832,875;Alta
+Piura;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;195974;26;Accesorios;01/12/2015;7537,461538;Media
+Piura;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;80637;15;Accesorios;01/12/2015;5375,8;Bajo
+Piura;Peru;Maquillajes Unidos;Victor;Norte;Ringo;163205;27;Accesorios;15/12/2015;6044,62963;Media
+Piura;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;90539;28;Accesorios;01/12/2015;3233,535714;Bajo
+Piura;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;56750;36;Electrodomesticos;01/12/2015;1576,388889;Bajo
+Piura;Peru;Banco Inca;Victor;Norte;Ringo;111493;22;Viajes;30/12/2015;5067,863636;Media
+Piura;Peru;Sociedad de Mineria Nueva;Marco;Sur;John;205025;38;Calzado;23/12/2015;5395,394737;Alta
+Piura;Peru;Gloria;Jose;Sur;Ringo;120213;18;Electrodomesticos;01/12/2015;6678,5;Media
+Piura;Peru;Maquillajes Unidos;Victor;Norte;Ringo;125045;37;Viajes;31/12/2015;3379,594595;Media
+Piura;Peru;Compañia Minera Poderosa, S.A.;Nadia;Sur;Ringo;215830;39;Accesorios;01/12/2015;5534,102564;Alta
+Piura;Peru;Maquillajes Unidos;Victor;Norte;Ringo;55065;34;Electrodomesticos;15/12/2015;1619,558824;Bajo
+Lima;Peru;RIMAC Corp;Victor;Norte;Ringo;60113;26;Accesorios;29/02/2016;2312,038462;Bajo
+Lima;Peru;RIMAC Corp;Victor;Norte;Ringo;141100;16;Calzado;29/02/2016;8818,75;Media
+Lima;Peru;Maquillajes Unidos;Victor;Norte;Ringo;73346;30;Calzado;26/02/2016;2444,866667;Bajo
+Trujillo;Peru;HAUG S.A.;Edwin;Sur;Ringo;198166;24;Juguetes;01/02/2016;8256,916667;Media
+Trujillo;Peru;Universidad La Modernidad;Edwin;Norte;Ringo;82356;20;Viajes;26/02/2016;4117,8;Bajo
+Trujillo;Peru;Unique, S.A.;Edwin;Norte;Ringo;156686;37;Viajes;26/02/2016;4234,756757;Media
+Trujillo;Peru;Electro Este;Edwin;Norte;Ringo;66316;27;Calzado;29/02/2016;2456,148148;Bajo
+Huancayo;Peru;Maquillajes Unidos;Victor;Norte;Ringo;228162;38;Electrodomesticos;18/02/2016;6004,263158;Alta
+Huancayo;Peru;Maquillajes Unidos;Victor;Norte;Ringo;123163;18;Electrodomesticos;26/02/2016;6842,388889;Media
+Huancayo;Peru;HAUG S.A.;Edwin;Sur;Ringo;109319;36;Juguetes;01/02/2016;3036,638889;Media
+Huancayo;Peru;RIMAC Corp;Victor;Norte;Ringo;90697;30;Electrodomesticos;29/02/2016;3023,233333;Bajo
+Huancayo;Peru;HAUG S.A.;Edwin;Sur;Ringo;126899;21;Juguetes;01/02/2016;6042,809524;Media
+Huancayo;Peru;HAUG S.A.;Edwin;Sur;Ringo;190190;21;Accesorios;01/02/2016;9056,666667;Media
+Huancayo;Peru;Sociedad de Mineria Nueva;Nadia;Sur;John;249032;36;Juguetes;29/02/2016;6917,555556;Alta
+Loreto;Peru;RIMAC Corp;Victor;Norte;Ringo;128165;31;Calzado;29/02/2016;4134,354839;Media
+Loreto;Peru;Nissan Maquinarias, S.A.;Edwin;Sur;Ringo;64326;30;Accesorios;01/02/2016;2144,2;Bajo
+Loreto;Peru;RIMAC Corp;Victor;Norte;Ringo;125963;36;Accesorios;29/02/2016;3498,972222;Media
+Loreto;Peru;Maquillajes Unidos;Victor;Norte;Ringo;217326;15;Accesorios;18/02/2016;14488,4;Alta
+Loreto;Peru;RIMAC Corp;Victor;Norte;Ringo;247619;35;Viajes;29/02/2016;7074,828571;Alta
+Loreto;Peru;HAUG S.A.;Edwin;Sur;Ringo;96045;15;Accesorios;01/02/2016;6403;Bajo
+Loreto;Peru;HAUG S.A.;Edwin;Sur;Ringo;60605;16;Juguetes;01/02/2016;3787,8125;Bajo
+Loreto;Peru;HAUG S.A.;Edwin;Sur;Ringo;247695;24;Calzado;01/02/2016;10320,625;Alta
+Arequipa;Peru;HAUG S.A.;Edwin;Sur;Ringo;213165;39;Accesorios;01/02/2016;5465,769231;Alta
+Arequipa;Peru;HAUG S.A.;Edwin;Sur;Ringo;175282;36;Accesorios;01/02/2016;4868,944444;Media
+Arequipa;Peru;Almacenes Santa Clara, S.A.;Edwin;Sur;Ringo;207526;29;Electrodomesticos;01/02/2016;7156,068966;Alta
+Arequipa;Peru;Almacenes Santa Clara, S.A.;Edwin;Sur;Ringo;57043;18;Accesorios;01/02/2016;3169,055556;Bajo
+Arequipa;Peru;Pacifico Peruano Suiza;Maria;Norte;Ringo;143396;34;Electrodomesticos;29/02/2016;4217,529412;Media
+Cusco;Peru;Almacenes Santa Clara, S.A.;Edwin;Sur;Ringo;236237;20;Accesorios;01/02/2016;11811,85;Alta
+Cusco;Peru;Maquillajes Unidos;Victor;Norte;Ringo;166285;29;Accesorios;26/02/2016;5733,965517;Media
+Cusco;Peru;Nissan Maquinarias, S.A.;Edwin;Sur;Ringo;235433;33;Accesorios;01/02/2016;7134,333333;Alta
+Cusco;Peru;Seguros Internos SAC;Edwin;Norte;Ringo;244064;25;Viajes;26/02/2016;9762,56;Alta
+Cajamarca;Peru;Ajies Rellenos Inc.;Edwin;Norte;Ringo;53014;15;Calzado;29/02/2016;3534,266667;Bajo
+Cajamarca;Peru;Nissan Maquinarias, S.A.;Edwin;Sur;Ringo;187059;28;Accesorios;01/02/2016;6680,678571;Media
+Piura;Peru;Almacenes Santa Clara, S.A.;Edwin;Sur;Ringo;206167;40;Accesorios;01/02/2016;5154,175;Alta
+Piura;Peru;Pacifico Peruano Suiza;Maria;Norte;Ringo;248081;19;Juguetes;29/02/2016;13056,89474;Alta
+Piura;Peru;Maquillajes Unidos;Victor;Norte;Ringo;244877;22;Calzado;26/02/2016;11130,77273;Alta
+Piura;Peru;RIMAC Corp;Victor;Norte;Ringo;99115;18;Electrodomesticos;29/02/2016;5506,388889;Bajo
+Piura;Peru;HAUG S.A.;Edwin;Sur;Ringo;80316;21;Electrodomesticos;01/02/2016;3824,571429;Bajo
+Piura;Peru;Nissan Maquinarias, S.A.;Edwin;Sur;Ringo;88338;16;Electrodomesticos;01/02/2016;5521,125;Bajo
+Lima;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;240940;37;Accesorios;01/01/2016;6511,891892;Alta
+Lima;Peru;Synapsis del Peru;Rosa;Sur;Paul;101844;39;Juguetes;01/01/2016;2611,384615;Media
+Lima;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;129301;38;Juguetes;01/01/2016;3402,657895;Media
+Lima;Peru;MAESTRO PERU S.A.;Victor;Norte;Ringo;118525;41;Viajes;01/01/2016;2890,853659;Media
+Trujillo;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;124304;26;Accesorios;01/01/2016;4780,923077;Media
+Trujillo;Peru;Radios Unidos por el pais;Edwin;Sur;George;59089;32;Calzado;14/01/2016;1846,53125;Bajo
+Trujillo;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;170555;26;Accesorios;01/01/2016;6559,807692;Media
+Trujillo;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;58257;24;Accesorios;01/01/2016;2427,375;Bajo
+Trujillo;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;58438;41;Accesorios;01/01/2016;1425,317073;Bajo
+Trujillo;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;211461;33;Accesorios;01/01/2016;6407,909091;Alta
+Huancayo;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;196969;33;Juguetes;01/01/2016;5968,757576;Media
+Huancayo;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;169308;22;Accesorios;01/01/2016;7695,818182;Media
+Huancayo;Peru;Empresa Minera La Aventura;Victor;Norte;Ringo;135276;26;Juguetes;01/01/2016;5202,923077;Media
+Huancayo;Peru;Empresa Minera La Aventura;Victor;Norte;Ringo;144362;24;Accesorios;01/01/2016;6015,083333;Media
+Huancayo;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;155833;22;Accesorios;01/01/2016;7083,318182;Media
+Huancayo;Peru;Synapsis del Peru;Rosa;Sur;Paul;177276;26;Electrodomesticos;01/01/2016;6818,307692;Media
+Huancayo;Peru;Automotores Distribuidos;Jose;Sur;Ringo;86373;35;Accesorios;01/01/2016;2467,8;Bajo
+Huancayo;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;197645;21;Electrodomesticos;01/01/2016;9411,666667;Media
+Huancayo;Peru;Empresa Minera La Aventura;Victor;Norte;Ringo;146128;19;Juguetes;01/01/2016;7690,947368;Media
+Loreto;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;231733;30;Juguetes;01/01/2016;7724,433333;Alta
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;72186;28;Accesorios;01/01/2016;2578,071429;Bajo
+Loreto;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;217989;17;Accesorios;01/01/2016;12822,88235;Alta
+Loreto;Peru;Automotores Distribuidos;Jose;Sur;Ringo;153172;29;Electrodomesticos;01/01/2016;5281,793103;Media
+Loreto;Peru;Automotores Distribuidos;Jose;Sur;Ringo;107859;17;Electrodomesticos;01/01/2016;6344,647059;Media
+Loreto;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;54920;15;Accesorios;01/01/2016;3661,333333;Bajo
+Loreto;Peru;Minera Aventurera;Victor;Norte;Ringo;148265;25;Accesorios;01/01/2016;5930,6;Media
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;61431;34;Accesorios;01/01/2016;1806,794118;Bajo
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;148488;20;Accesorios;01/01/2016;7424,4;Media
+Loreto;Peru;Banco Interno;Maria;Norte;Ringo;50104;26;Viajes;29/01/2016;1927,076923;Bajo
+Loreto;Peru;Synapsis del Peru;Rosa;Sur;Paul;126817;41;Juguetes;01/01/2016;3093,097561;Media
+Loreto;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;130686;16;Juguetes;01/01/2016;8167,875;Media
+Loreto;Peru;Automotores Distribuidos;Jose;Sur;Ringo;142419;22;Accesorios;01/01/2016;6473,590909;Media
+Loreto;Peru;Synapsis del Peru;Rosa;Sur;Paul;163063;21;Accesorios;01/01/2016;7764,904762;Media
+Loreto;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;118770;37;Accesorios;01/01/2016;3210;Media
+Loreto;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;79923;18;Calzado;01/01/2016;4440,166667;Bajo
+Loreto;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;92676;39;Accesorios;01/01/2016;2376,307692;Bajo
+Loreto;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;198026;37;Juguetes;01/01/2016;5352,054054;Media
+Loreto;Peru;Fabrica de Software;Jose;Sur;John;205697;15;Juguetes;31/01/2016;13713,13333;Alta
+Loreto;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;156059;39;Juguetes;01/01/2016;4001,512821;Media
+Loreto;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;235504;37;Accesorios;01/01/2016;6364,972973;Alta
+Loreto;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;178682;37;Accesorios;01/01/2016;4829,243243;Media
+Loreto;Peru;Automotores Distribuidos;Jose;Sur;Ringo;104201;41;Accesorios;01/01/2016;2541,487805;Media
+Loreto;Peru;Automotores Distribuidos;Jose;Sur;Ringo;182312;36;Juguetes;01/01/2016;5064,222222;Media
+Loreto;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;70148;27;Calzado;01/01/2016;2598,074074;Bajo
+Loreto;Peru;Minera Aventurera;Victor;Norte;Ringo;198848;17;Accesorios;01/01/2016;11696,94118;Media
+Loreto;Peru;Minera Aventurera;Victor;Norte;Ringo;97839;33;Accesorios;01/01/2016;2964,818182;Bajo
+Loreto;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;216170;41;Juguetes;01/01/2016;5272,439024;Alta
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;108246;30;Juguetes;01/01/2016;3608,2;Media
+Loreto;Peru;Synapsis del Peru;Rosa;Sur;Paul;231674;21;Accesorios;01/01/2016;11032,09524;Alta
+Loreto;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;122061;24;Electrodomesticos;01/01/2016;5085,875;Media
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;149238;40;Juguetes;01/01/2016;3730,95;Media
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;61706;18;Accesorios;01/01/2016;3428,111111;Bajo
+Loreto;Peru;Synapsis del Peru;Rosa;Sur;Paul;158075;17;Accesorios;01/01/2016;9298,529412;Media
+Loreto;Peru;Synapsis del Peru;Rosa;Sur;Paul;187416;32;Accesorios;01/01/2016;5856,75;Media
+Loreto;Peru;Automotores Distribuidos;Jose;Sur;Ringo;156090;23;Accesorios;01/01/2016;6786,521739;Media
+Loreto;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;134468;35;Accesorios;01/01/2016;3841,942857;Media
+Loreto;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;186335;16;Juguetes;01/01/2016;11645,9375;Media
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;54228;37;Calzado;01/01/2016;1465,621622;Bajo
+Loreto;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;166714;24;Accesorios;01/01/2016;6946,416667;Media
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;234301;19;Accesorios;01/01/2016;12331,63158;Alta
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;52351;30;Juguetes;01/01/2016;1745,033333;Bajo
+Arequipa;Peru;Minera Aventurera;Victor;Norte;Ringo;227701;37;Electrodomesticos;01/01/2016;6154,081081;Alta
+Arequipa;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;213418;30;Juguetes;01/01/2016;7113,933333;Alta
+Arequipa;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;195357;30;Juguetes;01/01/2016;6511,9;Media
+Arequipa;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;180157;40;Accesorios;01/01/2016;4503,925;Media
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;83073;28;Juguetes;01/01/2016;2966,892857;Bajo
+Arequipa;Peru;Grandes Montañas;Victor;Norte;Ringo;183188;23;Viajes;29/01/2016;7964,695652;Media
+Arequipa;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;137884;29;Accesorios;01/01/2016;4754,62069;Media
+Arequipa;Peru;Automotores Distribuidos;Jose;Sur;Ringo;141610;15;Accesorios;01/01/2016;9440,666667;Media
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;123546;41;Juguetes;01/01/2016;3013,317073;Media
+Arequipa;Peru;Minera Aventurera;Victor;Norte;Ringo;68964;18;Juguetes;01/01/2016;3831,333333;Bajo
+Arequipa;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;183631;16;Accesorios;01/01/2016;11476,9375;Media
+Arequipa;Peru;Synapsis del Peru;Rosa;Sur;Paul;163096;30;Juguetes;01/01/2016;5436,533333;Media
+Arequipa;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;89022;38;Accesorios;01/01/2016;2342,684211;Bajo
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;249750;41;Juguetes;01/01/2016;6091,463415;Alta
+Arequipa;Peru;Minera Aventurera;Victor;Norte;Ringo;87679;18;Juguetes;01/01/2016;4871,055556;Bajo
+Arequipa;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;154630;41;Accesorios;01/01/2016;3771,463415;Media
+Arequipa;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;152322;16;Electrodomesticos;01/01/2016;9520,125;Media
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;96346;34;Juguetes;01/01/2016;2833,705882;Bajo
+Arequipa;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;73926;40;Accesorios;01/01/2016;1848,15;Bajo
+Arequipa;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;94709;26;Calzado;01/01/2016;3642,653846;Bajo
+Arequipa;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;141717;15;Juguetes;01/01/2016;9447,8;Media
+Arequipa;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;64719;31;Accesorios;01/01/2016;2087,709677;Bajo
+Arequipa;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;70601;42;Electrodomesticos;01/01/2016;1680,97619;Bajo
+Arequipa;Peru;SCOTIABANK PERU;Victor;Norte;Ringo;172731;20;Viajes;29/01/2016;8636,55;Media
+Cusco;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;158478;32;Accesorios;01/01/2016;4952,4375;Media
+Cusco;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;188219;42;Juguetes;01/01/2016;4481,404762;Media
+Cusco;Peru;Automotores Distribuidos;Jose;Sur;Ringo;98533;39;Juguetes;01/01/2016;2526,487179;Bajo
+Cusco;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;230646;31;Accesorios;01/01/2016;7440,193548;Alta
+Cusco;Peru;Minera Aventurera;Victor;Norte;Ringo;78654;31;Juguetes;01/01/2016;2537,225806;Bajo
+Cusco;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;117451;38;Accesorios;01/01/2016;3090,815789;Media
+Cusco;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;204922;15;Juguetes;01/01/2016;13661,46667;Alta
+Cusco;Peru;Automotores Distribuidos;Jose;Sur;Ringo;53585;17;Accesorios;01/01/2016;3152,058824;Bajo
+Cusco;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;78911;36;Electrodomesticos;01/01/2016;2191,972222;Bajo
+Cusco;Peru;Synapsis del Peru;Rosa;Sur;Paul;172360;32;Juguetes;01/01/2016;5386,25;Media
+Cusco;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;55872;24;Accesorios;01/01/2016;2328;Bajo
+Cusco;Peru;Minera Aventurera;Victor;Norte;Ringo;90516;30;Calzado;01/01/2016;3017,2;Bajo
+Cusco;Peru;Minera Aventurera;Victor;Norte;Ringo;170452;30;Accesorios;01/01/2016;5681,733333;Media
+Cusco;Peru;Minera Aventurera;Victor;Norte;Ringo;194532;30;Juguetes;01/01/2016;6484,4;Media
+Cajamarca;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;105052;21;Electrodomesticos;01/01/2016;5002,47619;Media
+Cajamarca;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;164900;38;Accesorios;01/01/2016;4339,473684;Media
+Cajamarca;Peru;Synapsis del Peru;Rosa;Sur;Paul;92653;41;Accesorios;01/01/2016;2259,829268;Bajo
+Cajamarca;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;128070;31;Juguetes;01/01/2016;4131,290323;Media
+Cajamarca;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;102814;27;Accesorios;01/01/2016;3807,925926;Media
+Cajamarca;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;137688;34;Accesorios;01/01/2016;4049,647059;Media
+Cajamarca;Peru;Ferrocarriles Centrales;Victor;Norte;John;94685;41;Electrodomesticos;15/01/2016;2309,390244;Bajo
+Cajamarca;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;172920;30;Accesorios;01/01/2016;5764;Media
+Cajamarca;Peru;Synapsis del Peru;Rosa;Sur;Paul;190270;30;Accesorios;01/01/2016;6342,333333;Media
+Cajamarca;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;242009;31;Accesorios;01/01/2016;7806,741935;Alta
+Cajamarca;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;146427;25;Juguetes;01/01/2016;5857,08;Media
+Cajamarca;Peru;Plasticos SAC;Rosa;Sur;John;234999;23;Electrodomesticos;31/01/2016;10217,34783;Alta
+Cajamarca;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;220871;38;Juguetes;01/01/2016;5812,394737;Alta
+Cajamarca;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;153090;23;Juguetes;01/01/2016;6656,086957;Media
+Cajamarca;Peru;Ferrocarriles Centrales;Victor;Norte;John;247691;15;Accesorios;15/01/2016;16512,73333;Alta
+Cajamarca;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;55017;40;Calzado;01/01/2016;1375,425;Bajo
+Cajamarca;Peru;Synapsis del Peru;Rosa;Sur;Paul;176805;37;Accesorios;01/01/2016;4778,513514;Media
+Cajamarca;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;64955;15;Juguetes;01/01/2016;4330,333333;Bajo
+Cajamarca;Peru;Automotores Distribuidos;Jose;Sur;Ringo;80508;18;Accesorios;01/01/2016;4472,666667;Bajo
+Cajamarca;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;234572;41;Calzado;01/01/2016;5721,268293;Alta
+Cajamarca;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;163163;16;Juguetes;01/01/2016;10197,6875;Media
+Piura;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;130859;21;Accesorios;01/01/2016;6231,380952;Media
+Piura;Peru;Seguridad Integral Corp;Rosa;Sur;Ringo;58878;36;Electrodomesticos;01/01/2016;1635,5;Bajo
+Piura;Peru;Automotores Distribuidos;Jose;Sur;Ringo;116148;37;Accesorios;01/01/2016;3139,135135;Media
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;78119;38;Accesorios;01/01/2016;2055,763158;Bajo
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;117337;22;Juguetes;01/01/2016;5333,5;Media
+Piura;Peru;Minera Aventurera;Victor;Norte;Ringo;246381;22;Accesorios;01/01/2016;11199,13636;Alta
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;85868;38;Electrodomesticos;01/01/2016;2259,684211;Bajo
+Piura;Peru;Buenaventura Ingenieros, S.A.;Victor;Norte;Ringo;248199;42;Accesorios;01/01/2016;5909,5;Alta
+Piura;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;72504;38;Juguetes;01/01/2016;1908;Bajo
+Piura;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;222234;33;Accesorios;01/01/2016;6734,363636;Alta
+Piura;Peru;Automotores Distribuidos;Jose;Sur;Ringo;77987;33;Juguetes;01/01/2016;2363,242424;Bajo
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;86702;21;Accesorios;01/01/2016;4128,666667;Bajo
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;218040;32;Juguetes;01/01/2016;6813,75;Alta
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;86031;40;Accesorios;01/01/2016;2150,775;Bajo
+Piura;Peru;Minera Aventurera;Victor;Norte;Ringo;82758;18;Accesorios;01/01/2016;4597,666667;Bajo
+Piura;Peru;NEXTEL PERU S.A.;Victor;Norte;Ringo;214887;32;Viajes;25/01/2016;6715,21875;Alta
+Piura;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;213158;27;Electrodomesticos;01/01/2016;7894,740741;Alta
+Piura;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Paul;247148;25;Calzado;01/01/2016;9885,92;Alta
+Piura;Peru;Synapsis del Peru;Rosa;Sur;Paul;167422;22;Juguetes;01/01/2016;7610,090909;Media
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;122128;28;Electrodomesticos;01/01/2016;4361,714286;Media
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;109633;23;Juguetes;01/01/2016;4766,652174;Media
+Piura;Peru;Minera Aventurera;Victor;Norte;Ringo;167740;19;Juguetes;01/01/2016;8828,421053;Media
+Piura;Peru;Automotores Distribuidos;Jose;Sur;Ringo;206146;31;Electrodomesticos;01/01/2016;6649,870968;Alta
+Lima;Peru;Ferrocarriles Centrales;Nora;Sur;John;207279;32;Accesorios;01/07/2015;6477,46875;Alta
+Lima;Peru;Tiendas Wang;Marco;Sur;Ringo;141765;25;Calzado;01/07/2015;5670,6;Media
+Trujillo;Peru;Tiendas Wang;Marco;Sur;Ringo;98184;37;Accesorios;01/07/2015;2653,621622;Bajo
+Trujillo;Peru;Minera Hatun Exitokuna;Nora;Sur;John;143852;16;Juguetes;01/07/2015;8990,75;Media
+Trujillo;Peru;Hoteles Corp;Maria;Norte;Ringo;145865;32;Juguetes;17/07/2015;4558,28125;Media
+Trujillo;Peru;Petrobras Energia Peru, S.A.;Nora;Sur;Paul;238566;18;Accesorios;29/07/2015;13253,66667;Alta
+Trujillo;Peru;Tiendas Wang;Marco;Sur;Ringo;170460;39;Juguetes;01/07/2015;4370,769231;Media
+Trujillo;Peru;Minera Hatun Exitokuna;Nora;Sur;John;244710;28;Juguetes;01/07/2015;8739,642857;Alta
+Trujillo;Peru;Banco Interno;Maria;Norte;Paul;188140;18;Electrodomesticos;01/07/2015;10452,22222;Media
+Trujillo;Peru;Banco Interno;Javier;Norte;Paul;221649;37;Juguetes;01/07/2015;5990,513514;Alta
+Trujillo;Peru;Banco Interno;Javier;Norte;Ringo;52283;32;Juguetes;01/07/2015;1633,84375;Bajo
+Huancayo;Peru;Maquillajes Unidos;Victor;Norte;Ringo;189756;37;Electrodomesticos;30/07/2015;5128,540541;Media
+Huancayo;Peru;Ferrocarriles Centrales;Nora;Sur;Ringo;140881;20;Electrodomesticos;01/07/2015;7044,05;Media
+Huancayo;Peru;Tiendas Wang;Marco;Sur;Ringo;61931;16;Accesorios;01/07/2015;3870,6875;Bajo
+Huancayo;Peru;Tiendas Wang;Marco;Sur;Ringo;111214;25;Accesorios;01/07/2015;4448,56;Media
+Huancayo;Peru;Empresa Minera La Aventura;Victor;Norte;John;155974;30;Electrodomesticos;01/07/2015;5199,133333;Media
+Huancayo;Peru;Mina Linda Gente;Nora;Sur;John;148946;31;Accesorios;01/07/2015;4804,709677;Media
+Huancayo;Peru;Banco Interno;Maria;Norte;Paul;204161;30;Accesorios;01/07/2015;6805,366667;Alta
+Huancayo;Peru;Tecnologica de Alimentos, S.A.;Victor;Norte;Ringo;229428;42;Calzado;15/07/2015;5462,571429;Alta
+Loreto;Peru;IFH Peru LTD;Victor;Norte;John;109089;20;Viajes;30/07/2015;5454,45;Media
+Loreto;Peru;Tiendas Wang;Marco;Sur;Ringo;120701;20;Accesorios;01/07/2015;6035,05;Media
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;85080;28;Accesorios;01/07/2015;3038,571429;Bajo
+Loreto;Peru;RIMAC Corp;Victor;Norte;John;64098;29;Electrodomesticos;01/07/2015;2210,275862;Bajo
+Loreto;Peru;Banco Interno;Maria;Norte;Paul;91885;26;Calzado;01/07/2015;3534,038462;Bajo
+Loreto;Peru;Banco Interno;Maria;Norte;Paul;116600;38;Accesorios;01/07/2015;3068,421053;Media
+Loreto;Peru;Banco Interno;Javier;Norte;Paul;83595;42;Juguetes;01/07/2015;1990,357143;Bajo
+Loreto;Peru;Hoteles Corp;Maria;Norte;Ringo;148864;40;Accesorios;17/07/2015;3721,6;Media
+Loreto;Peru;Banco Interno;Javier;Norte;Ringo;173560;28;Accesorios;01/07/2015;6198,571429;Media
+Loreto;Peru;JJC Contratistas;Nora;Sur;John;120175;19;Electrodomesticos;23/07/2015;6325;Media
+Loreto;Peru;MANUFACTURAS ELECTRICAS S.A.;Marco;Sur;John;233088;27;Viajes;31/07/2015;8632,888889;Alta
+Loreto;Peru;Gloria;Nora;Sur;Ringo;220243;30;Accesorios;31/07/2015;7341,433333;Alta
+Loreto;Peru;Neptunia, S.A.;Nora;Sur;Ringo;219307;36;Electrodomesticos;07/07/2015;6091,861111;Alta
+Loreto;Peru;CROSLAND LOGISTICA;Nora;Sur;Ringo;214123;39;Juguetes;31/07/2015;5490,333333;Alta
+Loreto;Peru;Tiendas Wang;Marco;Sur;Ringo;85814;29;Accesorios;01/07/2015;2959,103448;Bajo
+Loreto;Peru;Tiendas Wang;Marco;Sur;Ringo;196431;30;Accesorios;01/07/2015;6547,7;Media
+Loreto;Peru;Grupo Central;Victor;Norte;John;191756;26;Accesorios;01/07/2015;7375,230769;Media
+Loreto;Peru;Minera Hatun Exitokuna;Nora;Sur;John;149397;26;Accesorios;01/07/2015;5746,038462;Media
+Loreto;Peru;Minera Hatun Exitokuna;Nora;Sur;John;133678;42;Juguetes;01/07/2015;3182,809524;Media
+Loreto;Peru;Banco Interno;Maria;Norte;Paul;80668;35;Accesorios;01/07/2015;2304,8;Bajo
+Loreto;Peru;Banco Interno;Javier;Norte;Paul;81427;39;Juguetes;01/07/2015;2087,871795;Bajo
+Loreto;Peru;Banco Interno;Javier;Norte;Paul;151115;35;Accesorios;01/07/2015;4317,571429;Media
+Loreto;Peru;Banco Interno;Javier;Norte;Ringo;101943;33;Juguetes;01/07/2015;3089,181818;Media
+Loreto;Peru;Ajies Rellenos Inc.;Victor;Norte;John;220780;34;Calzado;30/07/2015;6493,529412;Alta
+Loreto;Peru;INMOBILIARI S.A.;Nora;Sur;Ringo;63871;18;Accesorios;05/07/2015;3548,388889;Bajo
+Loreto;Peru;MAESTRO PERU S.A.;Maria;Norte;George;53014;27;Juguetes;01/07/2015;1963,481481;Bajo
+Loreto;Peru;Tiendas Wang;Marco;Sur;Ringo;181176;15;Electrodomesticos;01/07/2015;12078,4;Media
+Loreto;Peru;NGRESTAURANTS;Maria;Norte;John;114232;35;Electrodomesticos;10/07/2015;3263,771429;Media
+Loreto;Peru;JJC Contratistas;Nora;Sur;Ringo;97938;35;Accesorios;31/07/2015;2798,228571;Bajo
+Loreto;Peru;Maquillajes Unidos;Victor;Norte;Ringo;160668;25;Electrodomesticos;30/07/2015;6426,72;Media
+Loreto;Peru;Ferrocarriles Centrales;Nora;Sur;Ringo;159094;17;Accesorios;01/07/2015;9358,470588;Media
+Loreto;Peru;Grupo Central;Victor;Norte;John;145503;27;Accesorios;01/07/2015;5389;Media
+Loreto;Peru;Banco Interno;Maria;Norte;Paul;145459;18;Accesorios;01/07/2015;8081,055556;Media
+Loreto;Peru;Ajies Rellenos Inc.;Nora;Sur;John;202862;35;Electrodomesticos;23/07/2015;5796,057143;Alta
+Loreto;Peru;Hoteles Corp;Victor;Norte;Ringo;198428;29;Viajes;10/07/2015;6842,344828;Media
+Loreto;Peru;Tiendas Wang;Marco;Sur;Ringo;66793;32;Juguetes;01/07/2015;2087,28125;Bajo
+Loreto;Peru;Minsur, S.A.;Victor;Norte;John;239300;16;Accesorios;01/07/2015;14956,25;Alta
+Loreto;Peru;Minera Hatun Exitokuna;Nora;Sur;John;155280;30;Accesorios;01/07/2015;5176;Media
+Loreto;Peru;Banco Interno;Maria;Norte;Paul;117727;28;Accesorios;01/07/2015;4204,535714;Media
+Loreto;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;214851;35;Juguetes;01/07/2015;6138,6;Alta
+Loreto;Peru;CROSLAND LOGISTICA;Nora;Sur;Ringo;157862;22;Juguetes;31/07/2015;7175,545455;Media
+Loreto;Peru;Grupo Central;Victor;Norte;John;89788;34;Accesorios;01/07/2015;2640,823529;Bajo
+Loreto;Peru;Ajies Rellenos Inc.;Nora;Sur;John;210899;17;Electrodomesticos;24/07/2015;12405,82353;Alta
+Loreto;Peru;SIERRA MACHINES S.A.C.;Marco;Sur;Ringo;231912;18;Juguetes;30/07/2015;12884;Alta
+Loreto;Peru;Maquillajes Unidos;Victor;Norte;Ringo;226176;41;Viajes;31/07/2015;5516,487805;Alta
+Loreto;Peru;Almacenes Santa Clara, S.A.;Rosa;Sur;Paul;145869;27;Accesorios;09/07/2015;5402,555556;Media
+Loreto;Peru;INMOBILIARI S.A.;Nora;Sur;Ringo;153948;15;Electrodomesticos;05/07/2015;10263,2;Media
+Loreto;Peru;Tiendas Wang;Marco;Sur;Ringo;192645;29;Electrodomesticos;01/07/2015;6642,931034;Media
+Loreto;Peru;Tiendas Wang;Marco;Sur;Ringo;217306;19;Electrodomesticos;01/07/2015;11437,15789;Alta
+Loreto;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;117698;18;Accesorios;01/07/2015;6538,777778;Media
+Loreto;Peru;San Martin Inc;Maria;Norte;Ringo;169781;32;Juguetes;01/07/2015;5305,65625;Media
+Loreto;Peru;San Martin Inc;Maria;Norte;Ringo;183462;24;Juguetes;01/07/2015;7644,25;Media
+Arequipa;Peru;Americana de Contactos;Victor;Norte;George;61233;29;Juguetes;24/07/2015;2111,482759;Bajo
+Arequipa;Peru;Tiendas Wang;Marco;Sur;Ringo;237984;41;Juguetes;01/07/2015;5804,487805;Alta
+Arequipa;Peru;Minsur, S.A.;Victor;Norte;John;192611;33;Electrodomesticos;01/07/2015;5836,69697;Media
+Arequipa;Peru;Minera Hatun Exitokuna;Nora;Sur;John;101061;34;Calzado;01/07/2015;2972,382353;Media
+Arequipa;Peru;Minera Hatun Exitokuna;Nora;Sur;John;92899;20;Accesorios;01/07/2015;4644,95;Bajo
+Arequipa;Peru;Minera Hatun Exitokuna;Nora;Sur;John;219790;25;Electrodomesticos;01/07/2015;8791,6;Alta
+Arequipa;Peru;Minera Hatun Exitokuna;Nora;Sur;John;139039;34;Juguetes;01/07/2015;4089,382353;Media
+Arequipa;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;143488;28;Accesorios;01/07/2015;5124,571429;Media
+Arequipa;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;246692;39;Juguetes;01/07/2015;6325,435897;Alta
+Arequipa;Peru;Hoteles Corp;Maria;Norte;Ringo;68670;27;Electrodomesticos;17/07/2015;2543,333333;Bajo
+Arequipa;Peru;Hoteles Corp;Maria;Norte;Ringo;227782;31;Accesorios;17/07/2015;7347,806452;Alta
+Arequipa;Peru;Gloria;Nora;Sur;Ringo;120260;38;Juguetes;31/07/2015;3164,736842;Media
+Arequipa;Peru;Sociedad de Mineria Nueva;Marco;Sur;Ringo;58986;35;Electrodomesticos;31/07/2015;1685,314286;Bajo
+Arequipa;Peru;Tiendas Wang;Marco;Sur;Ringo;174419;37;Accesorios;01/07/2015;4714,027027;Media
+Arequipa;Peru;Tiendas Wang;Marco;Sur;Ringo;198516;29;Accesorios;01/07/2015;6845,37931;Media
+Arequipa;Peru;Tiendas Wang;Marco;Sur;Ringo;184208;26;Accesorios;01/07/2015;7084,923077;Media
+Arequipa;Peru;Minsur, S.A.;Victor;Norte;John;100204;39;Accesorios;01/07/2015;2569,333333;Media
+Arequipa;Peru;RIMAC Corp;Victor;Norte;John;212447;29;Accesorios;01/07/2015;7325,758621;Alta
+Arequipa;Peru;RIMAC Corp;Victor;Norte;John;239942;29;Electrodomesticos;01/07/2015;8273,862069;Alta
+Arequipa;Peru;Sociedad de Mineria Nueva;Marco;Sur;Ringo;198651;21;Viajes;15/07/2015;9459,571429;Media
+Arequipa;Peru;Ferrocarriles Centrales;Nora;Sur;Ringo;248774;26;Accesorios;01/07/2015;9568,230769;Alta
+Arequipa;Peru;Tiendas Wang;Marco;Sur;Ringo;179447;32;Accesorios;01/07/2015;5607,71875;Media
+Arequipa;Peru;Tiendas Wang;Marco;Sur;Ringo;72960;36;Accesorios;01/07/2015;2026,666667;Bajo
+Arequipa;Peru;TEXFINA S.A.;Nora;Sur;Ringo;109064;16;Electrodomesticos;31/07/2015;6816,5;Media
+Arequipa;Peru;Americana de Contactos;Victor;Norte;George;164976;36;Accesorios;24/07/2015;4582,666667;Media
+Arequipa;Peru;Sociedad de Mineria Nueva;Marco;Sur;Ringo;233246;17;Accesorios;31/07/2015;13720,35294;Alta
+Arequipa;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;183123;16;Electrodomesticos;01/07/2015;11445,1875;Media
+Arequipa;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;170518;32;Accesorios;01/07/2015;5328,6875;Media
+Arequipa;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;79375;25;Accesorios;01/07/2015;3175;Bajo
+Arequipa;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;91631;26;Juguetes;01/07/2015;3524,269231;Bajo
+Arequipa;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;197505;29;Accesorios;01/07/2015;6810,517241;Media
+Arequipa;Peru;Hoteles Corp;Maria;Norte;Ringo;87161;17;Accesorios;17/07/2015;5127,117647;Bajo
+Arequipa;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;225074;17;Juguetes;01/07/2015;13239,64706;Alta
+Arequipa;Peru;Gloria;Nora;Sur;Ringo;229595;20;Juguetes;31/07/2015;11479,75;Alta
+Arequipa;Peru;Servicios Generales;Victor;Norte;Ringo;230903;35;Viajes;01/07/2015;6597,228571;Alta
+Arequipa;Peru;Tiendas Wang;Marco;Sur;Ringo;169458;17;Accesorios;01/07/2015;9968,117647;Media
+Arequipa;Peru;Minera Hatun Exitokuna;Nora;Sur;John;162994;29;Juguetes;01/07/2015;5620,482759;Media
+Arequipa;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;152617;36;Accesorios;01/07/2015;4239,361111;Media
+Arequipa;Peru;San Martin Inc;Maria;Norte;Ringo;201906;21;Accesorios;01/07/2015;9614,571429;Alta
+Arequipa;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;138797;37;Juguetes;01/07/2015;3751,27027;Media
+Arequipa;Peru;JJC Contratistas;Nora;Sur;Ringo;81100;21;Electrodomesticos;24/07/2015;3861,904762;Bajo
+Arequipa;Peru;Banco Interno;Nora;Sur;Ringo;186666;40;Calzado;31/07/2015;4666,65;Media
+Arequipa;Peru;Sociedad de Mineria Nueva;Marco;Sur;Ringo;101941;25;Viajes;15/07/2015;4077,64;Media
+Cusco;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;187411;32;Electrodomesticos;01/07/2015;5856,59375;Media
+Cusco;Peru;Minera Hatun Exitokuna;Nora;Sur;John;66248;31;Calzado;01/07/2015;2137,032258;Bajo
+Cusco;Peru;Minera Hatun Exitokuna;Nora;Sur;John;85849;39;Juguetes;01/07/2015;2201,25641;Bajo
+Cusco;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;115067;20;Accesorios;01/07/2015;5753,35;Media
+Cusco;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;160313;27;Juguetes;01/07/2015;5937,518519;Media
+Cusco;Peru;DROKASA PERU S.A.;Nora;Sur;John;143127;27;Viajes;24/07/2015;5301;Media
+Cusco;Peru;JJC Contratistas;Nora;Sur;John;130705;36;Electrodomesticos;24/07/2015;3630,694444;Media
+Cusco;Peru;Gloria;Nora;Sur;Ringo;63869;23;Electrodomesticos;31/07/2015;2776,913043;Bajo
+Cusco;Peru;Grupo Central;Victor;Norte;John;217999;20;Accesorios;01/07/2015;10899,95;Alta
+Cusco;Peru;San Martin Inc;Maria;Norte;Ringo;112107;19;Accesorios;01/07/2015;5900,368421;Media
+Cusco;Peru;IFH Peru LTD;Victor;Norte;Ringo;172580;24;Juguetes;01/07/2015;7190,833333;Media
+Cusco;Peru;Neptunia, S.A.;Nora;Sur;Ringo;189121;22;Electrodomesticos;07/07/2015;8596,409091;Media
+Cusco;Peru;Tiendas Wang;Marco;Sur;Ringo;205308;36;Accesorios;01/07/2015;5703;Alta
+Cusco;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;100256;34;Accesorios;01/07/2015;2948,705882;Media
+Cusco;Peru;Hoteles Corp;Maria;Norte;Ringo;186159;31;Accesorios;17/07/2015;6005,129032;Media
+Cusco;Peru;TELCO Internacional;Victor;Norte;Ringo;212582;39;Viajes;29/07/2015;5450,820513;Alta
+Cusco;Peru;IFH Peru LTD;Victor;Norte;Ringo;225327;20;Juguetes;01/07/2015;11266,35;Alta
+Cusco;Peru;Tiendas Wang;Marco;Sur;Ringo;237728;24;Accesorios;01/07/2015;9905,333333;Alta
+Cusco;Peru;Tiendas Wang;Marco;Sur;Ringo;248799;37;Accesorios;01/07/2015;6724,297297;Alta
+Cusco;Peru;Tiendas Wang;Marco;Sur;Ringo;54839;24;Accesorios;01/07/2015;2284,958333;Bajo
+Cusco;Peru;Grupo Central;Victor;Norte;John;74764;36;Accesorios;01/07/2015;2076,777778;Bajo
+Cusco;Peru;Minera Hatun Exitokuna;Nora;Sur;John;126342;30;Accesorios;01/07/2015;4211,4;Media
+Cusco;Peru;Minera Hatun Exitokuna;Nora;Sur;John;88626;40;Juguetes;01/07/2015;2215,65;Bajo
+Cusco;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;105177;30;Electrodomesticos;01/07/2015;3505,9;Media
+Cusco;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;68975;19;Juguetes;01/07/2015;3630,263158;Bajo
+Cusco;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;74893;27;Juguetes;01/07/2015;2773,814815;Bajo
+Cusco;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;221558;23;Juguetes;01/07/2015;9632,956522;Alta
+Cusco;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;216010;18;Calzado;01/07/2015;12000,55556;Alta
+Cusco;Peru;Gloria;Nora;Sur;Ringo;196310;20;Juguetes;31/07/2015;9815,5;Media
+Cusco;Peru;Sociedad de Mineria Nueva;Marco;Sur;Ringo;202612;30;Electrodomesticos;31/07/2015;6753,733333;Alta
+Cusco;Peru;Neptunia, S.A.;Nora;Sur;Ringo;175336;20;Electrodomesticos;07/07/2015;8766,8;Media
+Cusco;Peru;Tiendas Wang;Marco;Sur;Ringo;239186;36;Juguetes;01/07/2015;6644,055556;Alta
+Cusco;Peru;Tiendas Wang;Marco;Sur;Ringo;144214;32;Juguetes;01/07/2015;4506,6875;Media
+Cusco;Peru;Minera Hatun Exitokuna;Nora;Sur;John;147718;20;Calzado;01/07/2015;7385,9;Media
+Cusco;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;145824;24;Accesorios;01/07/2015;6076;Media
+Cusco;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;180434;37;Electrodomesticos;01/07/2015;4876,594595;Media
+Cajamarca;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;198973;17;Juguetes;01/07/2015;11704,29412;Media
+Cajamarca;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;137715;35;Juguetes;01/07/2015;3934,714286;Media
+Cajamarca;Peru;Hoteles Corp;Maria;Norte;Ringo;96022;15;Accesorios;17/07/2015;6401,466667;Bajo
+Cajamarca;Peru;San Martin Inc;Maria;Norte;Ringo;206455;24;Juguetes;01/07/2015;8602,291667;Alta
+Cajamarca;Peru;San Martin Inc;Maria;Norte;Ringo;197883;42;Accesorios;01/07/2015;4711,5;Media
+Cajamarca;Peru;San Martin Inc;Maria;Norte;Ringo;132610;15;Electrodomesticos;01/07/2015;8840,666667;Media
+Cajamarca;Peru;San Martin Inc;Maria;Norte;Ringo;83888;27;Accesorios;01/07/2015;3106,962963;Bajo
+Cajamarca;Peru;Grupo Central;Victor;Norte;John;129446;34;Electrodomesticos;10/07/2015;3807,235294;Media
+Cajamarca;Peru;CROSLAND LOGISTICA;Nora;Sur;Ringo;125832;31;Accesorios;31/07/2015;4059,096774;Media
+Cajamarca;Peru;Ferrocarriles Centrales;Nora;Sur;John;211102;20;Electrodomesticos;01/07/2015;10555,1;Alta
+Cajamarca;Peru;LUCKY S.A.C.;Rosa;Sur;Ringo;239663;21;Electrodomesticos;27/07/2015;11412,52381;Alta
+Cajamarca;Peru;Tiendas Wang;Marco;Sur;Ringo;247680;33;Juguetes;01/07/2015;7505,454545;Alta
+Cajamarca;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;102106;17;Accesorios;01/07/2015;6006,235294;Media
+Cajamarca;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;125635;22;Accesorios;01/07/2015;5710,681818;Media
+Cajamarca;Peru;JJC Contratistas;Nora;Sur;John;116106;33;Electrodomesticos;22/07/2015;3518,363636;Media
+Cajamarca;Peru;Hoteles Corp;Maria;Norte;Ringo;224521;21;Juguetes;17/07/2015;10691,47619;Alta
+Cajamarca;Peru;NGRESTAURANTS;Maria;Norte;John;111663;40;Electrodomesticos;10/07/2015;2791,575;Media
+Cajamarca;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;150575;35;Calzado;01/07/2015;4302,142857;Media
+Cajamarca;Peru;Tiendas Wang;Marco;Sur;Ringo;148445;41;Juguetes;01/07/2015;3620,609756;Media
+Cajamarca;Peru;Tiendas Wang;Marco;Sur;Ringo;209114;40;Juguetes;01/07/2015;5227,85;Alta
+Cajamarca;Peru;Grupo Central;Victor;Norte;John;139313;29;Juguetes;01/07/2015;4803,896552;Media
+Cajamarca;Peru;Minera Hatun Exitokuna;Nora;Sur;John;245945;17;Accesorios;01/07/2015;14467,35294;Alta
+Cajamarca;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;118158;15;Accesorios;01/07/2015;7877,2;Media
+Cajamarca;Peru;Lima Airport Partner;Nora;Sur;Ringo;175447;42;Juguetes;22/07/2015;4177,309524;Media
+Cajamarca;Peru;Minera de Cobre Supremo;Victor;Norte;John;174086;22;Electrodomesticos;03/07/2015;7913;Media
+Cajamarca;Peru;Maquillajes Unidos;Victor;Norte;Ringo;70653;38;Electrodomesticos;30/07/2015;1859,289474;Bajo
+Cajamarca;Peru;Tiendas Wang;Marco;Sur;Ringo;85203;31;Accesorios;01/07/2015;2748,483871;Bajo
+Cajamarca;Peru;Tiendas Wang;Marco;Sur;Ringo;248288;17;Accesorios;01/07/2015;14605,17647;Alta
+Cajamarca;Peru;Grupo Central;Victor;Norte;John;185106;29;Accesorios;01/07/2015;6382,965517;Media
+Piura;Peru;Minera Hatun Exitokuna;Nora;Sur;John;98751;35;Accesorios;01/07/2015;2821,457143;Bajo
+Piura;Peru;Minera Hatun Exitokuna;Nora;Sur;John;182420;38;Accesorios;01/07/2015;4800,526316;Media
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;125495;18;Accesorios;01/07/2015;6971,944444;Media
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;126327;40;Accesorios;01/07/2015;3158,175;Media
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;86725;39;Accesorios;01/07/2015;2223,717949;Bajo
+Piura;Peru;Servicios Generales;Maria;Norte;George;113258;17;Electrodomesticos;30/07/2015;6662,235294;Media
+Piura;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;103229;34;Juguetes;01/07/2015;3036,147059;Media
+Piura;Peru;CROSLAND LOGISTICA;Nora;Sur;Ringo;75000;34;Accesorios;31/07/2015;2205,882353;Bajo
+Piura;Peru;Ferrocarriles Centrales;Nora;Sur;John;171136;28;Accesorios;01/07/2015;6112;Media
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;John;82065;37;Accesorios;03/07/2015;2217,972973;Bajo
+Piura;Peru;Americana de Contactos;Victor;Norte;George;153126;32;Juguetes;24/07/2015;4785,1875;Media
+Piura;Peru;Tiendas Wang;Marco;Sur;Ringo;231400;34;Accesorios;01/07/2015;6805,882353;Alta
+Piura;Peru;Tiendas Wang;Marco;Sur;Ringo;224684;38;Accesorios;01/07/2015;5912,736842;Alta
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;219831;28;Accesorios;01/07/2015;7851,107143;Alta
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;66563;17;Electrodomesticos;01/07/2015;3915,470588;Bajo
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;235887;33;Electrodomesticos;01/07/2015;7148,090909;Alta
+Piura;Peru;Minera Hatun Exitokuna;Marco;Sur;Ringo;150988;27;Electrodomesticos;31/07/2015;5592,148148;Media
+Piura;Peru;SIERRA MACHINES S.A.C.;Marco;Sur;Ringo;200255;28;Calzado;30/07/2015;7151,964286;Alta
+Piura;Peru;Ferrocarriles Centrales;Nora;Sur;John;118900;22;Accesorios;01/07/2015;5404,545455;Media
+Piura;Peru;Americana de Contactos;Victor;Norte;George;71730;36;Accesorios;24/07/2015;1992,5;Bajo
+Piura;Peru;Minera Hatun Exitokuna;Nora;Sur;John;104555;27;Accesorios;01/07/2015;3872,407407;Media
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;75775;20;Calzado;01/07/2015;3788,75;Bajo
+Piura;Peru;Banco Egipcio Nacional;Javier;Norte;Paul;140675;22;Accesorios;01/07/2015;6394,318182;Media
+Piura;Peru;Unique, S.A.;Maria;Norte;Ringo;208659;28;Viajes;03/07/2015;7452,107143;Alta
+Piura;Peru;San Martin Inc;Maria;Norte;Ringo;106754;38;Electrodomesticos;01/07/2015;2809,315789;Media
+Piura;Peru;Tiendas Wang;Marco;Sur;Ringo;245753;35;Accesorios;01/07/2015;7021,514286;Alta
+Piura;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;245158;24;Accesorios;01/07/2015;10214,91667;Alta
+Piura;Peru;Minera Hatun Exitokuna;Nora;Sur;John;53581;29;Calzado;01/07/2015;1847,62069;Bajo
+Piura;Peru;Minera Hatun Exitokuna;Nora;Sur;John;221642;33;Accesorios;01/07/2015;6716,424242;Alta
+Piura;Peru;Hoteles Corp;Maria;Norte;Ringo;104596;16;Juguetes;17/07/2015;6537,25;Media
+Piura;Peru;Hoteles Corp;Maria;Norte;Ringo;151243;18;Juguetes;17/07/2015;8402,388889;Media
+Piura;Peru;Unique, S.A.;Maria;Norte;Ringo;234289;31;Viajes;13/07/2015;7557,709677;Alta
+Piura;Peru;Ferrocarriles Centrales;Victor;Norte;John;206768;25;Viajes;01/07/2015;8270,72;Alta
+Piura;Peru;SIERRA MACHINES S.A.C.;Marco;Sur;Ringo;174640;39;Juguetes;30/07/2015;4477,948718;Media
+Piura;Peru;INMOBILIARI S.A.;Nora;Sur;Ringo;141749;37;Calzado;05/07/2015;3831,054054;Media
+Piura;Peru;IFH Peru LTD;Victor;Norte;Ringo;228711;22;Juguetes;01/07/2015;10395,95455;Alta
+Piura;Peru;Ferrocarriles Centrales;Nora;Sur;Ringo;60934;31;Accesorios;01/07/2015;1965,612903;Bajo
+Piura;Peru;Tiendas Wang;Marco;Sur;Ringo;128909;29;Electrodomesticos;01/07/2015;4445,137931;Media
+Piura;Peru;Tiendas Wang;Marco;Sur;Ringo;202750;38;Electrodomesticos;01/07/2015;5335,526316;Alta
+Piura;Peru;Banco Egipcio Nacional;Maria;Norte;Paul;229554;35;Electrodomesticos;01/07/2015;6558,685714;Alta
+Piura;Peru;Periodicos Nuevos;Nora;Sur;John;153522;23;Juguetes;08/07/2015;6674,869565;Media
+Lima;Peru;Tractores Unidos;Jose;Sur;John;64470;33;Accesorios;01/06/2016;1953,636364;Bajo
+Lima;Peru;Transportes CPGQ;Jose;Sur;Ringo;103417;23;Juguetes;01/06/2016;4496,391304;Media
+Trujillo;Peru;Tractores Unidos;Jose;Sur;John;246778;25;Accesorios;01/06/2016;9871,12;Alta
+Trujillo;Peru;Tractores Unidos;Jose;Sur;John;97611;32;Accesorios;01/06/2016;3050,34375;Bajo
+Huancayo;Peru;Tractores Unidos;Jose;Sur;John;87307;34;Accesorios;01/06/2016;2567,852941;Bajo
+Huancayo;Peru;Americana de Contactos;Victor;Norte;Ringo;198264;29;Electrodomesticos;30/06/2016;6836,689655;Media
+Loreto;Peru;Transportes CPGQ;Jose;Sur;Ringo;223252;28;Accesorios;01/06/2016;7973,285714;Alta
+Loreto;Peru;Ferrocarriles Centrales;Victor;Norte;John;67981;29;Electrodomesticos;30/06/2016;2344,172414;Bajo
+Loreto;Peru;Tractores Unidos;Jose;Sur;John;190313;39;Accesorios;01/06/2016;4879,820513;Media
+Loreto;Peru;IFH Peru LTD;Victor;Norte;Ringo;86941;38;Viajes;23/06/2016;2287,921053;Bajo
+Loreto;Peru;Transportes CPGQ;Jose;Sur;Ringo;212428;24;Juguetes;01/06/2016;8851,166667;Alta
+Loreto;Peru;Transportes CPGQ;Jose;Sur;Ringo;117311;32;Accesorios;01/06/2016;3665,96875;Media
+Loreto;Peru;FORZA S.A.;Jose;Sur;Ringo;110235;21;Accesorios;01/06/2016;5249,285714;Media
+Loreto;Peru;Transportes CPGQ;Jose;Sur;Ringo;69039;34;Accesorios;01/06/2016;2030,558824;Bajo
+Loreto;Peru;Transportes CPGQ;Jose;Sur;Ringo;232708;35;Electrodomesticos;01/06/2016;6648,8;Alta
+Loreto;Peru;Banco Interno;Victor;Norte;Ringo;92420;29;Viajes;08/06/2016;3186,896552;Bajo
+Loreto;Peru;Transportes CPGQ;Jose;Sur;Ringo;232480;42;Accesorios;01/06/2016;5535,238095;Alta
+Arequipa;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;220375;34;Accesorios;30/06/2016;6481,617647;Alta
+Arequipa;Peru;Tractores Unidos;Jose;Sur;John;230137;20;Juguetes;01/06/2016;11506,85;Alta
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;79736;27;Calzado;01/06/2016;2953,185185;Bajo
+Arequipa;Peru;Ferrocarriles Centrales;Victor;Norte;John;240803;18;Electrodomesticos;30/06/2016;13377,94444;Alta
+Arequipa;Peru;Banco Inca;Victor;Norte;Ringo;109108;19;Electrodomesticos;09/06/2016;5742,526316;Media
+Arequipa;Peru;Tractores Unidos;Jose;Sur;John;137267;40;Accesorios;01/06/2016;3431,675;Media
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;84325;21;Juguetes;01/06/2016;4015,47619;Bajo
+Arequipa;Peru;Unique, S.A.;Victor;Norte;Ringo;179250;23;Viajes;15/06/2016;7793,478261;Media
+Arequipa;Peru;Tractores Unidos;Jose;Sur;John;151335;16;Electrodomesticos;01/06/2016;9458,4375;Media
+Arequipa;Peru;Tractores Unidos;Jose;Sur;John;53918;32;Calzado;01/06/2016;1684,9375;Bajo
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;230011;39;Accesorios;01/06/2016;5897,717949;Alta
+Arequipa;Peru;Tractores Unidos;Jose;Sur;John;93244;33;Accesorios;01/06/2016;2825,575758;Bajo
+Arequipa;Peru;Tractores Unidos;Jose;Sur;John;207045;24;Juguetes;01/06/2016;8626,875;Alta
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;229982;42;Juguetes;01/06/2016;5475,761905;Alta
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;91418;26;Accesorios;01/06/2016;3516,076923;Bajo
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;109295;25;Accesorios;01/06/2016;4371,8;Media
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;175214;34;Electrodomesticos;01/06/2016;5153,352941;Media
+Arequipa;Peru;Transportes CPGQ;Jose;Sur;Ringo;227601;21;Accesorios;01/06/2016;10838,14286;Alta
+Cusco;Peru;Tractores Unidos;Jose;Sur;John;152397;23;Juguetes;01/06/2016;6625,956522;Media
+Cusco;Peru;Tractores Unidos;Jose;Sur;John;55680;38;Juguetes;01/06/2016;1465,263158;Bajo
+Cusco;Peru;Transportes CPGQ;Jose;Sur;Ringo;59189;19;Accesorios;01/06/2016;3115,210526;Bajo
+Cusco;Peru;FORZA S.A.;Jose;Sur;Ringo;209422;16;Accesorios;01/06/2016;13088,875;Alta
+Cajamarca;Peru;Tractores Unidos;Jose;Sur;John;53978;19;Accesorios;01/06/2016;2840,947368;Bajo
+Cajamarca;Peru;Transportes CPGQ;Jose;Sur;Ringo;197094;29;Accesorios;01/06/2016;6796,344828;Media
+Cajamarca;Peru;Banco Inca;Victor;Norte;Ringo;154972;26;Electrodomesticos;30/06/2016;5960,461538;Media
+Cajamarca;Peru;Transportes CPGQ;Jose;Sur;Ringo;124202;21;Juguetes;01/06/2016;5914,380952;Media
+Cajamarca;Peru;Transportes CPGQ;Jose;Sur;Ringo;181232;30;Accesorios;01/06/2016;6041,066667;Media
+Cajamarca;Peru;Transportes CPGQ;Jose;Sur;Ringo;101777;39;Accesorios;01/06/2016;2609,666667;Media
+Cajamarca;Peru;FORZA S.A.;Jose;Sur;Ringo;180470;17;Electrodomesticos;01/06/2016;10615,88235;Media
+Piura;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;86311;18;Electrodomesticos;30/06/2016;4795,055556;Bajo
+Piura;Peru;FORZA S.A.;Jose;Sur;Ringo;110468;27;Juguetes;01/06/2016;4091,407407;Media
+Piura;Peru;Transportes CPGQ;Jose;Sur;Ringo;131273;40;Accesorios;01/06/2016;3281,825;Media
+Piura;Peru;Tractores Unidos;Jose;Sur;John;106806;24;Juguetes;01/06/2016;4450,25;Media
+Piura;Peru;FORZA S.A.;Jose;Sur;Ringo;68692;22;Juguetes;01/06/2016;3122,363636;Bajo
+Piura;Peru;Transportes CPGQ;Jose;Sur;Ringo;90565;15;Accesorios;01/06/2016;6037,666667;Bajo
+Lima;Peru;Operadores de Gas;Jose;Sur;John;79294;30;Calzado;01/03/2016;2643,133333;Bajo
+Trujillo;Peru;Seguros Positivos;Nora;Sur;Ringo;97248;38;Electrodomesticos;01/03/2016;2559,157895;Bajo
+Huancayo;Peru;Seguros Positivos;Nora;Sur;Ringo;70958;31;Accesorios;01/03/2016;2288,967742;Bajo
+Huancayo;Peru;Operadores de Gas;Nora;Sur;John;215277;20;Juguetes;01/03/2016;10763,85;Alta
+Huancayo;Peru;Operadores de Gas;Jose;Sur;John;169193;16;Accesorios;01/03/2016;10574,5625;Media
+Huancayo;Peru;Operadores de Gas;Jose;Sur;John;62746;37;Electrodomesticos;01/03/2016;1695,837838;Bajo
+Huancayo;Peru;CORPORACION LINDLEY S.A.;Nora;Sur;Ringo;194776;36;Accesorios;25/03/2016;5410,444444;Media
+Loreto;Peru;IFH Peru LTD;Maria;Norte;Ringo;241332;21;Calzado;31/03/2016;11492;Alta
+Loreto;Peru;Operadores de Gas;Nora;Sur;John;173389;19;Accesorios;01/03/2016;9125,736842;Media
+Loreto;Peru;Operadores de Gas;Jose;Sur;John;166055;40;Accesorios;01/03/2016;4151,375;Media
+Loreto;Peru;CINEPLEX S.A;Victor;Norte;Ringo;220860;34;Viajes;23/03/2016;6495,882353;Alta
+Loreto;Peru;Seguros Positivos;Nora;Sur;Ringo;96982;38;Juguetes;01/03/2016;2552,157895;Bajo
+Loreto;Peru;Operadores de Gas;Nora;Sur;John;94899;26;Juguetes;01/03/2016;3649,961538;Bajo
+Loreto;Peru;Ferrocarriles Centrales;Nora;Sur;Paul;238589;24;Accesorios;01/03/2016;9941,208333;Alta
+Loreto;Peru;Operadores de Gas;Jose;Sur;John;212535;23;Accesorios;01/03/2016;9240,652174;Alta
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;George;194809;34;Electrodomesticos;18/03/2016;5729,676471;Media
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;George;116025;24;Juguetes;18/03/2016;4834,375;Media
+Arequipa;Peru;Operadores de Gas;Jose;Sur;John;68283;29;Accesorios;01/03/2016;2354,586207;Bajo
+Arequipa;Peru;Seguros Positivos;Nora;Sur;Ringo;93983;29;Electrodomesticos;01/03/2016;3240,793103;Bajo
+Arequipa;Peru;Seguros Positivos;Nora;Sur;Ringo;203876;34;Accesorios;01/03/2016;5996,352941;Alta
+Arequipa;Peru;Operadores de Gas;Jose;Sur;John;247015;26;Accesorios;01/03/2016;9500,576923;Alta
+Arequipa;Peru;Operadores de Gas;Nora;Sur;John;199925;42;Accesorios;01/03/2016;4760,119048;Media
+Arequipa;Peru;Seguros Positivos;Nora;Sur;Ringo;75539;27;Accesorios;01/03/2016;2797,740741;Bajo
+Arequipa;Peru;Sodimac Peru, S.A.;Victor;Norte;Ringo;172613;32;Calzado;25/03/2016;5394,15625;Media
+Arequipa;Peru;Operadores de Gas;Jose;Sur;John;135082;26;Accesorios;01/03/2016;5195,461538;Media
+Arequipa;Peru;Operadores de Gas;Jose;Sur;John;225533;34;Electrodomesticos;01/03/2016;6633,323529;Alta
+Arequipa;Peru;Seguros Positivos;Nora;Sur;Ringo;143814;22;Calzado;01/03/2016;6537;Media
+Arequipa;Peru;SCOTIABANK PERU;Victor;Norte;Ringo;234590;35;Electrodomesticos;31/03/2016;6702,571429;Alta
+Arequipa;Peru;Operadores de Gas;Jose;Sur;John;214800;41;Electrodomesticos;01/03/2016;5239,02439;Alta
+Arequipa;Peru;Ferrocarriles Centrales;Nora;Sur;Paul;219704;35;Electrodomesticos;01/03/2016;6277,257143;Alta
+Arequipa;Peru;Seguros Positivos;Nora;Sur;Ringo;158223;38;Accesorios;01/03/2016;4163,763158;Media
+Arequipa;Peru;Operadores de Gas;Jose;Sur;John;114069;15;Calzado;01/03/2016;7604,6;Media
+Cusco;Peru;Seguros Positivos;Nora;Sur;Ringo;174569;29;Accesorios;01/03/2016;6019,62069;Media
+Cusco;Peru;Unique, S.A.;Victor;Norte;Ringo;87539;25;Calzado;31/03/2016;3501,56;Bajo
+Cusco;Peru;Operadores de Gas;Jose;Sur;John;75445;18;Juguetes;01/03/2016;4191,388889;Bajo
+Cusco;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;George;56649;21;Accesorios;18/03/2016;2697,571429;Bajo
+Cusco;Peru;LOS PORTALES S.A.;Jose;Sur;Ringo;221062;32;Juguetes;08/03/2016;6908,1875;Alta
+Cusco;Peru;Operadores de Gas;Jose;Sur;John;82736;35;Juguetes;01/03/2016;2363,885714;Bajo
+Cusco;Peru;Operadores de Gas;Nora;Sur;John;202292;42;Accesorios;01/03/2016;4816,47619;Alta
+Cusco;Peru;Banco Inca;Victor;Norte;Ringo;58039;40;Viajes;16/03/2016;1450,975;Bajo
+Cusco;Peru;Banco Egipcio Nacional;Maria;Norte;Ringo;146216;24;Viajes;31/03/2016;6092,333333;Media
+Cajamarca;Peru;LOS PORTALES S.A.;Jose;Sur;Ringo;195024;19;Juguetes;08/03/2016;10264,42105;Media
+Cajamarca;Peru;Seguros Positivos;Nora;Sur;Ringo;59374;24;Accesorios;01/03/2016;2473,916667;Bajo
+Cajamarca;Peru;Seguros Positivos;Nora;Sur;Ringo;243567;20;Juguetes;01/03/2016;12178,35;Alta
+Cajamarca;Peru;TELCO Internacional;Victor;Norte;Ringo;178289;30;Viajes;25/03/2016;5942,966667;Media
+Piura;Peru;IFH Peru LTD;Victor;Norte;Ringo;82993;29;Viajes;25/03/2016;2861,827586;Bajo
+Piura;Peru;Operadores de Gas;Jose;Sur;John;195651;35;Calzado;01/03/2016;5590,028571;Media
+Piura;Peru;Seguros Positivos;Nora;Sur;Ringo;89550;29;Accesorios;01/03/2016;3087,931034;Bajo
+Piura;Peru;CORPORACION LINDLEY S.A.;Nora;Sur;Ringo;61730;29;Accesorios;25/03/2016;2128,62069;Bajo
+Piura;Peru;Grandes Montañas;Maria;Norte;Ringo;244178;21;Viajes;31/03/2016;11627,52381;Alta
+Piura;Peru;Operadores de Gas;Nora;Sur;John;147047;33;Juguetes;01/03/2016;4455,969697;Media
+Piura;Peru;Seguros Positivos;Nora;Sur;Ringo;180690;32;Electrodomesticos;01/03/2016;5646,5625;Media
+Lima;Peru;Banco Inca;Victor;Norte;Ringo;214986;19;Viajes;27/05/2016;11315,05263;Alta
+Trujillo;Peru;HAUG S.A.;Rosa;Sur;Ringo;237694;30;Accesorios;01/05/2016;7923,133333;Alta
+Huancayo;Peru;HAUG S.A.;Rosa;Sur;Ringo;135816;18;Electrodomesticos;01/05/2016;7545,333333;Media
+Loreto;Peru;Electro Este;Nora;Sur;Ringo;198335;23;Accesorios;01/05/2016;8623,26087;Media
+Loreto;Peru;Electro Este;Nora;Sur;Ringo;216752;24;Accesorios;01/05/2016;9031,333333;Alta
+Loreto;Peru;HAUG S.A.;Rosa;Sur;Ringo;225035;21;Juguetes;01/05/2016;10715,95238;Alta
+Loreto;Peru;Electro Este;Nora;Sur;Ringo;60671;22;Calzado;01/05/2016;2757,772727;Bajo
+Loreto;Peru;HAUG S.A.;Rosa;Sur;Ringo;95869;33;Accesorios;01/05/2016;2905,121212;Bajo
+Loreto;Peru;Eckerd Peru, S.A.;Victor;Norte;Ringo;168365;30;Viajes;24/05/2016;5612,166667;Media
+Loreto;Peru;Electro Este;Nora;Sur;Ringo;148772;19;Accesorios;01/05/2016;7830,105263;Media
+Loreto;Peru;HAUG S.A.;Rosa;Sur;Ringo;57931;40;Juguetes;01/05/2016;1448,275;Bajo
+Arequipa;Peru;Electro Este;Nora;Sur;Ringo;192702;41;Accesorios;01/05/2016;4700,04878;Media
+Arequipa;Peru;Electro Este;Nora;Sur;Ringo;127812;29;Juguetes;01/05/2016;4407,310345;Media
+Arequipa;Peru;Electro Este;Nora;Sur;Ringo;94571;42;Accesorios;01/05/2016;2251,690476;Bajo
+Arequipa;Peru;Electro Este;Nora;Sur;Ringo;202782;37;Accesorios;01/05/2016;5480,594595;Alta
+Arequipa;Peru;Servicios Generales;Victor;Norte;Ringo;148894;34;Viajes;27/05/2016;4379,235294;Media
+Cusco;Peru;Electro Este;Nora;Sur;Ringo;82666;27;Juguetes;01/05/2016;3061,703704;Bajo
+Cusco;Peru;HAUG S.A.;Rosa;Sur;Ringo;236895;20;Juguetes;01/05/2016;11844,75;Alta
+Cusco;Peru;Banco Inca;Victor;Norte;Ringo;227528;30;Juguetes;31/05/2016;7584,266667;Alta
+Cusco;Peru;Electro Este;Nora;Sur;Ringo;236419;23;Juguetes;01/05/2016;10279,08696;Alta
+Cusco;Peru;Profuturo AFP;Victor;Norte;Ringo;167326;37;Viajes;19/05/2016;4522,324324;Media
+Cajamarca;Peru;HAUG S.A.;Rosa;Sur;Ringo;56636;33;Accesorios;01/05/2016;1716,242424;Bajo
+Cajamarca;Peru;Gloria;Victor;Norte;Ringo;74466;21;Viajes;27/05/2016;3546;Bajo
+Piura;Peru;Electro Este;Nora;Sur;Ringo;139098;35;Juguetes;01/05/2016;3974,228571;Media
+Piura;Peru;Banco Inca;Victor;Norte;Ringo;178143;37;Juguetes;31/05/2016;4814,675676;Media
+Piura;Peru;Profuturo AFP;Victor;Norte;Ringo;167348;39;Viajes;27/05/2016;4290,974359;Media
+Lima;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;George;129917;33;Juguetes;27/11/2015;3936,878788;Media
+Lima;Peru;Gloria;Rosa;Sur;Ringo;180074;37;Electrodomesticos;30/11/2015;4866,864865;Media
+Huancayo;Peru;Plasticos SAC;Edwin;Sur;John;235799;23;Juguetes;01/11/2015;10252,13043;Alta
+Huancayo;Peru;Fabrica de Software;Edwin;Norte;Ringo;127126;23;Accesorios;01/11/2015;5527,217391;Media
+Loreto;Peru;SCOTIABANK PERU;Victor;Norte;Ringo;173340;16;Accesorios;30/11/2015;10833,75;Media
+Loreto;Peru;Plasticos SAC;Edwin;Sur;John;62580;16;Juguetes;01/11/2015;3911,25;Bajo
+Loreto;Peru;Fabrica de Software;Edwin;Norte;Ringo;116079;41;Accesorios;01/11/2015;2831,195122;Media
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;George;147784;16;Accesorios;27/11/2015;9236,5;Media
+Loreto;Peru;LINEA AMARILLA S.A.C.;Marco;Sur;George;145360;34;Accesorios;02/11/2015;4275,294118;Media
+Loreto;Peru;Fabrica de Software;Edwin;Norte;Ringo;62223;24;Accesorios;01/11/2015;2592,625;Bajo
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;George;177809;30;Accesorios;27/11/2015;5926,966667;Media
+Loreto;Peru;Banco Inca;Victor;Norte;Ringo;78315;21;Juguetes;30/11/2015;3729,285714;Bajo
+Loreto;Peru;Fabrica de Software;Edwin;Norte;Ringo;69046;35;Calzado;01/11/2015;1972,742857;Bajo
+Loreto;Peru;Fabrica de Software;Edwin;Norte;Ringo;163488;40;Accesorios;01/11/2015;4087,2;Media
+Arequipa;Peru;Fabrica de Software;Edwin;Norte;Ringo;185348;40;Accesorios;01/11/2015;4633,7;Media
+Arequipa;Peru;Fabrica de Software;Edwin;Norte;Ringo;117329;19;Juguetes;01/11/2015;6175,210526;Media
+Arequipa;Peru;Plasticos SAC;Edwin;Sur;Ringo;60050;30;Electrodomesticos;30/11/2015;2001,666667;Bajo
+Arequipa;Peru;Plasticos SAC;Edwin;Sur;John;92225;42;Electrodomesticos;01/11/2015;2195,833333;Bajo
+Arequipa;Peru;SCOTIABANK PERU;Edwin;Norte;Ringo;198207;40;Calzado;30/11/2015;4955,175;Media
+Arequipa;Peru;LA ARENA S.A.;Edwin;Sur;Ringo;198864;30;Electrodomesticos;30/11/2015;6628,8;Media
+Arequipa;Peru;Fabrica de Software;Edwin;Norte;Ringo;185665;26;Accesorios;01/11/2015;7140,961538;Media
+Arequipa;Peru;Plasticos SAC;Edwin;Sur;Ringo;58494;41;Electrodomesticos;01/11/2015;1426,682927;Bajo
+Arequipa;Peru;Plasticos SAC;Edwin;Sur;John;77687;33;Juguetes;01/11/2015;2354,151515;Bajo
+Arequipa;Peru;RIMAC Corp;Victor;Norte;Ringo;183572;42;Accesorios;27/11/2015;4370,761905;Media
+Arequipa;Peru;Fabrica de Software;Edwin;Norte;Ringo;192186;40;Juguetes;01/11/2015;4804,65;Media
+Cusco;Peru;Plasticos SAC;Edwin;Sur;John;169065;19;Accesorios;01/11/2015;8898,157895;Media
+Cusco;Peru;Fabrica de Software;Edwin;Norte;Ringo;106154;42;Accesorios;01/11/2015;2527,47619;Media
+Cusco;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;George;99706;26;Accesorios;27/11/2015;3834,846154;Bajo
+Cusco;Peru;Grandes Montañas;Edwin;Norte;Ringo;228631;15;Juguetes;30/11/2015;15242,06667;Alta
+Cajamarca;Peru;Radios Unidos por el pais;Edwin;Sur;Ringo;57810;30;Electrodomesticos;27/11/2015;1927;Bajo
+Cajamarca;Peru;CIA INDUSTRIAL NUEVO MUNDO S.A.;Nadia;Sur;Ringo;161757;34;Electrodomesticos;25/11/2015;4757,558824;Media
+Cajamarca;Peru;SCOTIABANK PERU;Victor;Norte;Ringo;234845;24;Accesorios;30/11/2015;9785,208333;Alta
+Piura;Peru;SCOTIABANK PERU;Edwin;Norte;Ringo;73039;34;Juguetes;30/11/2015;2148,205882;Bajo
+Piura;Peru;Plasticos SAC;Edwin;Sur;John;70112;22;Juguetes;26/11/2015;3186,909091;Bajo
+Piura;Peru;Fabrica de Software;Edwin;Norte;Ringo;123591;36;Juguetes;01/11/2015;3433,083333;Media
+Piura;Peru;SCOTIABANK PERU;Edwin;Norte;Ringo;51345;16;Calzado;30/11/2015;3209,0625;Bajo
+Piura;Peru;LINEA AMARILLA S.A.C.;Marco;Sur;George;245032;30;Accesorios;02/11/2015;8167,733333;Alta
+Trujillo;Peru;Lima Airport Partner;Nora;Sur;George;196892;16;Juguetes;30/10/2015;12305,75;Media
+Trujillo;Peru;Lima Airport Partner;Nora;Sur;George;101165;26;Accesorios;30/10/2015;3890,961538;Media
+Huancayo;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;Ringo;137994;18;Juguetes;23/10/2015;7666,333333;Media
+Huancayo;Peru;LAIVE S.A.;Edwin;Sur;Paul;155581;26;Accesorios;26/10/2015;5983,884615;Media
+Huancayo;Peru;Ferrocarriles Centrales;Nadia;Sur;Ringo;75064;29;Accesorios;01/10/2015;2588,413793;Bajo
+Huancayo;Peru;PANA AUTOS S.A.;Edwin;Sur;Ringo;57247;23;Juguetes;31/10/2015;2489;Bajo
+Huancayo;Peru;Lima Airport Partner;Nora;Sur;George;203539;39;Accesorios;30/10/2015;5218,948718;Alta
+Huancayo;Peru;Maquillajes Unidos;Victor;Norte;Ringo;100741;26;Accesorios;29/10/2015;3874,653846;Media
+Huancayo;Peru;SGS del Peru, S.A.C;Marco;Sur;John;150801;15;Electrodomesticos;30/10/2015;10053,4;Media
+Huancayo;Peru;Mina Linda Gente;Edwin;Sur;Ringo;85371;29;Electrodomesticos;14/10/2015;2943,827586;Bajo
+Loreto;Peru;TELCO Internacional;Rosa;Sur;John;155728;21;Electrodomesticos;15/10/2015;7415,619048;Media
+Loreto;Peru;Maquillajes Unidos;Victor;Norte;Ringo;180268;39;Juguetes;29/10/2015;4622,25641;Media
+Loreto;Peru;RIMAC Corp;Victor;Norte;John;137070;20;Accesorios;30/10/2015;6853,5;Media
+Loreto;Peru;Ferrocarriles Centrales;Nadia;Sur;Ringo;190459;34;Accesorios;01/10/2015;5601,735294;Media
+Loreto;Peru;Lima Airport Partner;Nora;Sur;George;187861;42;Juguetes;30/10/2015;4472,880952;Media
+Loreto;Peru;Lima Airport Partner;Nora;Sur;George;115051;17;Electrodomesticos;30/10/2015;6767,705882;Media
+Loreto;Peru;Asociacion de Fondos de Pensiones;Nadia;Sur;Ringo;75445;32;Electrodomesticos;15/10/2015;2357,65625;Bajo
+Loreto;Peru;Servicios Generales;Edwin;Norte;Ringo;212526;41;Juguetes;30/10/2015;5183,560976;Alta
+Loreto;Peru;Sociedad de Mineria Nueva;Rosa;Sur;John;233126;23;Electrodomesticos;15/10/2015;10135,91304;Alta
+Loreto;Peru;Radios Unidos por el pais;Rosa;Sur;Ringo;53775;15;Calzado;15/10/2015;3585;Bajo
+Loreto;Peru;Lima Airport Partner;Nora;Sur;George;103188;32;Accesorios;30/10/2015;3224,625;Media
+Loreto;Peru;Lima Airport Partner;Nora;Sur;George;80767;25;Accesorios;30/10/2015;3230,68;Bajo
+Loreto;Peru;Banco Egipcio Nacional;Maria;Norte;Ringo;171381;15;Viajes;15/10/2015;11425,4;Media
+Loreto;Peru;Lima Airport Partner;Nora;Sur;George;224177;24;Juguetes;30/10/2015;9340,708333;Alta
+Loreto;Peru;Lima Airport Partner;Nora;Sur;George;59830;20;Accesorios;30/10/2015;2991,5;Bajo
+Loreto;Peru;Unique, S.A.;Edwin;Norte;Ringo;53496;21;Calzado;30/10/2015;2547,428571;Bajo
+Arequipa;Peru;Sociedad de Mineria Nueva;Nadia;Sur;Ringo;230086;28;Electrodomesticos;30/10/2015;8217,357143;Alta
+Arequipa;Peru;Lima Airport Partner;Nora;Sur;George;66815;29;Accesorios;30/10/2015;2303,965517;Bajo
+Arequipa;Peru;Lima Airport Partner;Nora;Sur;George;119431;34;Electrodomesticos;30/10/2015;3512,676471;Media
+Arequipa;Peru;Lima Airport Partner;Nora;Sur;George;125421;30;Accesorios;30/10/2015;4180,7;Media
+Arequipa;Peru;BOTICAS & SALUD S.A.C.;Nadia;Sur;Ringo;228766;24;Electrodomesticos;15/10/2015;9531,916667;Alta
+Arequipa;Peru;Minera Aventurera;Victor;Norte;John;249451;34;Calzado;30/10/2015;7336,794118;Alta
+Arequipa;Peru;Fabrica de Software;Nadia;Sur;Ringo;217625;37;Juguetes;30/10/2015;5881,756757;Alta
+Arequipa;Peru;Petrobras Energia Peru, S.A.;Nora;Sur;John;131959;23;Juguetes;08/10/2015;5737,347826;Media
+Arequipa;Peru;Lima Airport Partner;Nora;Sur;George;205930;38;Accesorios;30/10/2015;5419,210526;Alta
+Arequipa;Peru;Ferrocarriles Centrales;Nadia;Sur;Ringo;142568;17;Accesorios;01/10/2015;8386,352941;Media
+Arequipa;Peru;Ferrocarriles Centrales;Nadia;Sur;Ringo;150709;30;Electrodomesticos;01/10/2015;5023,633333;Media
+Arequipa;Peru;Sociedad de Mineria Nueva;Rosa;Sur;Ringo;105066;39;Electrodomesticos;15/10/2015;2694;Media
+Arequipa;Peru;Servicios Generales;Victor;Norte;Ringo;72691;32;Electrodomesticos;30/10/2015;2271,59375;Bajo
+Arequipa;Peru;Asociacion de Fondos de Pensiones;Nora;Sur;Ringo;145150;42;Calzado;15/10/2015;3455,952381;Media
+Arequipa;Peru;Servicios Generales;Victor;Norte;Ringo;186297;36;Electrodomesticos;30/10/2015;5174,916667;Media
+Arequipa;Peru;Neptunia, S.A.;Nadia;Sur;Ringo;169649;28;Electrodomesticos;30/10/2015;6058,892857;Media
+Cusco;Peru;Maquillajes Unidos;Victor;Norte;Ringo;114630;15;Juguetes;29/10/2015;7642;Media
+Cusco;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;Ringo;150686;26;Juguetes;23/10/2015;5795,615385;Media
+Cusco;Peru;RIMAC Corp;Victor;Norte;Ringo;207351;26;Viajes;30/10/2015;7975,038462;Alta
+Cusco;Peru;Lima Airport Partner;Nora;Sur;George;215420;33;Juguetes;30/10/2015;6527,878788;Alta
+Cusco;Peru;ARPL Tecnologia Industrial S.A.;Marco;Sur;John;216876;33;Electrodomesticos;30/10/2015;6572;Alta
+Cusco;Peru;Delosi, S.A.;Edwin;Sur;Ringo;71356;39;Electrodomesticos;15/10/2015;1829,641026;Bajo
+Cusco;Peru;Delosi, S.A.;Edwin;Sur;Ringo;160149;27;Electrodomesticos;15/10/2015;5931,444444;Media
+Cusco;Peru;Lima Airport Partner;Nora;Sur;George;196395;26;Accesorios;30/10/2015;7553,653846;Media
+Cusco;Peru;Banco Interno;Nadia;Sur;Ringo;129885;37;Electrodomesticos;30/10/2015;3510,405405;Media
+Cajamarca;Peru;Pluspetrol Peru Corporation, S.A.;Nadia;Sur;Ringo;238764;35;Electrodomesticos;30/10/2015;6821,828571;Alta
+Cajamarca;Peru;Periodicos Nuevos;Nadia;Sur;Ringo;157787;25;Viajes;30/10/2015;6311,48;Media
+Cajamarca;Peru;TELCO Internacional;Victor;Norte;Ringo;214993;40;Calzado;23/10/2015;5374,825;Alta
+Cajamarca;Peru;PANA AUTOS S.A.;Edwin;Sur;Ringo;219452;15;Juguetes;31/10/2015;14630,13333;Alta
+Piura;Peru;Banco Egipcio Nacional;Javier;Norte;Ringo;188855;23;Calzado;21/10/2015;8211,086957;Media
+Piura;Peru;Lima Airport Partner;Nora;Sur;George;147550;16;Accesorios;30/10/2015;9221,875;Media
+Piura;Peru;Lima Airport Partner;Nora;Sur;George;196803;20;Accesorios;30/10/2015;9840,15;Media
+Piura;Peru;Grandes Montañas;Edwin;Norte;Ringo;64333;16;Calzado;30/10/2015;4020,8125;Bajo
+Piura;Peru;Lima Airport Partner;Nora;Sur;George;96521;24;Juguetes;30/10/2015;4021,708333;Bajo
+Piura;Peru;Lima Airport Partner;Nora;Sur;George;174277;38;Electrodomesticos;30/10/2015;4586,236842;Media
+Piura;Peru;Ferrocarriles Centrales;Nadia;Sur;Ringo;52880;38;Juguetes;01/10/2015;1391,578947;Bajo
+Piura;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;208373;20;Viajes;23/10/2015;10418,65;Alta
+Piura;Peru;Maquillajes Unidos;Victor;Norte;Ringo;88986;33;Accesorios;29/10/2015;2696,545455;Bajo
+Piura;Peru;TELCO Internacional;Victor;Norte;Ringo;240673;22;Electrodomesticos;23/10/2015;10939,68182;Alta
+Lima;Peru;Tractores Unidos;Rosa;Sur;Ringo;115114;18;Juguetes;30/09/2015;6395,222222;Media
+Lima;Peru;Radios Unidos por el pais;Rosa;Sur;John;103657;40;Calzado;30/09/2015;2591,425;Media
+Trujillo;Peru;RIMAC Corp;Victor;Norte;John;190412;41;Accesorios;30/09/2015;4644,195122;Media
+Trujillo;Peru;Compañia Minera Poderosa, S.A.;Nora;Sur;Ringo;105612;17;Electrodomesticos;30/09/2015;6212,470588;Media
+Trujillo;Peru;Automotores Distribuidos;Nora;Sur;Ringo;95576;19;Calzado;30/09/2015;5030,315789;Bajo
+Trujillo;Peru;Banco Interno;Edwin;Norte;John;204578;22;Calzado;15/09/2015;9299;Alta
+Trujillo;Peru;Banco Maya;Marco;Sur;Ringo;132888;16;Electrodomesticos;30/09/2015;8305,5;Media
+Trujillo;Peru;IFH Peru LTD;Marco;Sur;Ringo;170772;25;Juguetes;30/09/2015;6830,88;Media
+Trujillo;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;223804;15;Accesorios;17/09/2015;14920,26667;Alta
+Trujillo;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;65521;26;Electrodomesticos;17/09/2015;2520,038462;Bajo
+Huancayo;Peru;Sodimac Peru, S.A.;Maria;Norte;Ringo;121684;20;Juguetes;30/09/2015;6084,2;Media
+Huancayo;Peru;Banco Interno;Edwin;Norte;John;223849;15;Accesorios;15/09/2015;14923,26667;Alta
+Huancayo;Peru;Gloria;Rosa;Sur;George;179295;33;Electrodomesticos;30/09/2015;5433,181818;Media
+Huancayo;Peru;TELCO Internacional;Victor;Norte;Ringo;233181;19;Calzado;30/09/2015;12272,68421;Alta
+Huancayo;Peru;SCOTIABANK PERU;Victor;Norte;Ringo;161549;32;Accesorios;30/09/2015;5048,40625;Media
+Huancayo;Peru;Delosi, S.A.;Rosa;Sur;John;132445;26;Calzado;22/09/2015;5094,038462;Media
+Huancayo;Peru;IFH Peru LTD;Marco;Sur;Ringo;236889;30;Electrodomesticos;30/09/2015;7896,3;Alta
+Huancayo;Peru;Radios Unidos por el pais;Marco;Sur;John;143753;32;Juguetes;23/09/2015;4492,28125;Media
+Huancayo;Peru;Banco Maya;Marco;Sur;Ringo;55401;22;Juguetes;16/09/2015;2518,227273;Bajo
+Huancayo;Peru;Delosi, S.A.;Marco;Sur;Ringo;152333;32;Accesorios;30/09/2015;4760,40625;Media
+Loreto;Peru;Synapsis del Peru;Rosa;Sur;Ringo;238115;38;Electrodomesticos;15/09/2015;6266,184211;Alta
+Loreto;Peru;San Martin Inc;Nora;Sur;Ringo;101717;29;Accesorios;01/09/2015;3507,482759;Media
+Loreto;Peru;Ajies Rellenos Inc.;Nora;Sur;Ringo;205856;41;Electrodomesticos;24/09/2015;5020,878049;Alta
+Loreto;Peru;Banco Interno;Edwin;Norte;John;93389;28;Accesorios;15/09/2015;3335,321429;Bajo
+Loreto;Peru;Banco Interno;Edwin;Norte;John;160212;21;Accesorios;15/09/2015;7629,142857;Media
+Loreto;Peru;Banco Interno;Edwin;Norte;John;125180;16;Juguetes;15/09/2015;7823,75;Media
+Loreto;Peru;Sociedad de Mineria Nueva;Nadia;Sur;George;145196;30;Accesorios;29/09/2015;4839,866667;Media
+Loreto;Peru;Radios Unidos por el pais;Rosa;Sur;John;58356;16;Juguetes;29/09/2015;3647,25;Bajo
+Loreto;Peru;Minera Aventurera;Victor;Norte;John;197046;28;Accesorios;25/09/2015;7037,357143;Media
+Loreto;Peru;Alcaldia Regional;Nora;Sur;John;80082;19;Calzado;23/09/2015;4214,842105;Bajo
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;152845;17;Electrodomesticos;25/09/2015;8990,882353;Media
+Loreto;Peru;Compañia Minera Poderosa, S.A.;Nora;Sur;Ringo;191117;33;Juguetes;30/09/2015;5791,424242;Media
+Loreto;Peru;Delosi, S.A.;Marco;Sur;Ringo;164288;25;Accesorios;30/09/2015;6571,52;Media
+Loreto;Peru;Sociedad de Mineria Nueva;Edwin;Sur;George;63188;33;Accesorios;23/09/2015;1914,787879;Bajo
+Loreto;Peru;Avalora S.A.C;Nadia;Sur;Ringo;109687;18;Viajes;30/09/2015;6093,722222;Media
+Loreto;Peru;Banco Maya;Marco;Sur;Ringo;190056;24;Juguetes;30/09/2015;7919;Media
+Loreto;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;114059;42;Accesorios;17/09/2015;2715,690476;Media
+Loreto;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;94117;34;Juguetes;17/09/2015;2768,147059;Bajo
+Loreto;Peru;Hermes Transportes Blindados S.A.;Marco;Sur;Ringo;193459;30;Juguetes;30/09/2015;6448,633333;Media
+Loreto;Peru;IFH Peru LTD;Edwin;Norte;John;198537;25;Calzado;30/09/2015;7941,48;Media
+Loreto;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;97698;15;Accesorios;17/09/2015;6513,2;Bajo
+Loreto;Peru;COM S.A.;Nora;Sur;Ringo;113698;24;Electrodomesticos;30/09/2015;4737,416667;Media
+Loreto;Peru;JJC Contratistas;Nadia;Sur;Ringo;71482;36;Viajes;30/09/2015;1985,611111;Bajo
+Loreto;Peru;Hermes Transportes Blindados S.A.;Rosa;Sur;Ringo;245579;32;Accesorios;16/09/2015;7674,34375;Alta
+Loreto;Peru;San Martin Inc;Nora;Sur;Ringo;226790;27;Accesorios;01/09/2015;8399,62963;Alta
+Loreto;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;209688;29;Accesorios;25/09/2015;7230,62069;Alta
+Loreto;Peru;IFH Peru LTD;Maria;Norte;John;91011;29;Accesorios;30/09/2015;3138,310345;Bajo
+Loreto;Peru;NEXTEL PERU S.A.;Victor;Norte;John;81190;21;Juguetes;30/09/2015;3866,190476;Bajo
+Loreto;Peru;Banco Maya;Marco;Sur;Ringo;138161;28;Accesorios;16/09/2015;4934,321429;Media
+Loreto;Peru;Gloria;Rosa;Sur;John;201236;35;Electrodomesticos;30/09/2015;5749,6;Alta
+Loreto;Peru;SCOTIABANK PERU;Victor;Norte;Ringo;103222;22;Viajes;28/09/2015;4691,909091;Media
+Loreto;Peru;Hermes Transportes Blindados S.A.;Rosa;Sur;Ringo;145586;38;Electrodomesticos;16/09/2015;3831,210526;Media
+Loreto;Peru;San Martin Inc;Nora;Sur;Ringo;201274;31;Juguetes;01/09/2015;6492,709677;Alta
+Loreto;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;86028;23;Accesorios;17/09/2015;3740,347826;Bajo
+Loreto;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;229548;36;Accesorios;17/09/2015;6376,333333;Alta
+Loreto;Peru;NEXTEL PERU S.A.;Victor;Norte;John;80726;38;Accesorios;30/09/2015;2124,368421;Bajo
+Loreto;Peru;Banco Interno;Edwin;Norte;John;111874;18;Accesorios;15/09/2015;6215,222222;Media
+Loreto;Peru;Banco Interno;Edwin;Norte;John;68209;17;Juguetes;15/09/2015;4012,294118;Bajo
+Loreto;Peru;INCA TOPS S.A.;Nadia;Sur;Ringo;122294;24;Juguetes;30/09/2015;5095,583333;Media
+Loreto;Peru;JJC Contratistas;Nadia;Sur;Ringo;100516;31;Viajes;30/09/2015;3242,451613;Media
+Loreto;Peru;CEMENTO SUR S.A.;Rosa;Sur;Ringo;167858;31;Viajes;30/09/2015;5414,774194;Media
+Loreto;Peru;Hermes Transportes Blindados S.A.;Rosa;Sur;Ringo;230870;33;Juguetes;16/09/2015;6996,060606;Alta
+Loreto;Peru;Banco Interno;Edwin;Norte;John;94014;40;Calzado;15/09/2015;2350,35;Bajo
+Loreto;Peru;Banco Interno;Edwin;Norte;John;117686;30;Juguetes;15/09/2015;3922,866667;Media
+Loreto;Peru;Sociedad de Mineria Nueva;Edwin;Sur;George;233373;27;Juguetes;23/09/2015;8643,444444;Alta
+Arequipa;Peru;Radios Unidos por el pais;Marco;Sur;Ringo;186381;30;Electrodomesticos;09/09/2015;6212,7;Media
+Arequipa;Peru;Radios Unidos por el pais;Marco;Sur;John;224371;31;Electrodomesticos;30/09/2015;7237,774194;Alta
+Arequipa;Peru;Minera Aventurera;Victor;Norte;John;122115;26;Accesorios;25/09/2015;4696,730769;Media
+Arequipa;Peru;DROKASA PERU S.A.;Rosa;Sur;Ringo;60955;36;Juguetes;30/09/2015;1693,194444;Bajo
+Arequipa;Peru;San Martin Inc;Nora;Sur;Ringo;151611;37;Electrodomesticos;01/09/2015;4097,594595;Media
+Arequipa;Peru;San Martin Inc;Nora;Sur;Ringo;202204;19;Juguetes;01/09/2015;10642,31579;Alta
+Arequipa;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;60866;34;Calzado;25/09/2015;1790,176471;Bajo
+Arequipa;Peru;Minera Hatun Exitokuna;Nadia;Sur;Ringo;164202;15;Viajes;30/09/2015;10946,8;Media
+Arequipa;Peru;Hoteles Corp;Rosa;Sur;Ringo;88652;36;Juguetes;25/09/2015;2462,555556;Bajo
+Arequipa;Peru;Hermes Transportes Blindados S.A.;Rosa;Sur;Ringo;110701;42;Accesorios;16/09/2015;2635,738095;Media
+Arequipa;Peru;IFH Peru LTD;Marco;Sur;Ringo;234270;18;Accesorios;30/09/2015;13015;Alta
+Arequipa;Peru;IFH Peru LTD;Marco;Sur;Ringo;214990;16;Juguetes;30/09/2015;13436,875;Alta
+Arequipa;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;123954;29;Accesorios;17/09/2015;4274,275862;Media
+Arequipa;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;220017;29;Juguetes;17/09/2015;7586,793103;Alta
+Arequipa;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;236382;18;Juguetes;25/09/2015;13132,33333;Alta
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Nora;Sur;Ringo;186013;36;Accesorios;30/09/2015;5167,027778;Media
+Arequipa;Peru;Hipermercados Metro S.A;Marco;Sur;Ringo;215494;31;Juguetes;30/09/2015;6951,419355;Alta
+Arequipa;Peru;Ajies Rellenos Inc.;Edwin;Norte;John;237620;35;Calzado;30/09/2015;6789,142857;Alta
+Arequipa;Peru;Minera de Cobre Supremo;Victor;Norte;Ringo;119452;19;Viajes;25/09/2015;6286,947368;Media
+Arequipa;Peru;NEXTEL PERU S.A.;Victor;Norte;John;229038;17;Accesorios;30/09/2015;13472,82353;Alta
+Arequipa;Peru;Importaciones D A F T;Marco;Sur;Paul;163268;22;Calzado;30/09/2015;7421,272727;Media
+Arequipa;Peru;Gloria;Nora;Sur;John;188040;42;Calzado;25/09/2015;4477,142857;Media
+Arequipa;Peru;LA ARENA S.A.;Rosa;Sur;John;56459;40;Electrodomesticos;30/09/2015;1411,475;Bajo
+Arequipa;Peru;Compañia Minera Poderosa, S.A.;Nora;Sur;Ringo;139545;26;Juguetes;23/09/2015;5367,115385;Media
+Arequipa;Peru;Banco Maya;Marco;Sur;Ringo;177273;19;Accesorios;30/09/2015;9330,157895;Media
+Arequipa;Peru;San Martin Inc;Nora;Sur;Ringo;69135;28;Accesorios;01/09/2015;2469,107143;Bajo
+Arequipa;Peru;San Martin Inc;Nora;Sur;Ringo;63516;32;Accesorios;01/09/2015;1984,875;Bajo
+Arequipa;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;88719;17;Accesorios;17/09/2015;5218,764706;Bajo
+Arequipa;Peru;Nissan Maquinarias, S.A.;Marco;Sur;Ringo;246661;18;Accesorios;23/09/2015;13703,38889;Alta
+Arequipa;Peru;Pacifico Peruano Suiza;Maria;Norte;Paul;78060;41;Calzado;02/09/2015;1903,902439;Bajo
+Arequipa;Peru;Minera Norteña;Marco;Sur;Ringo;97132;38;Accesorios;30/09/2015;2556,105263;Bajo
+Arequipa;Peru;Nissan Maquinarias, S.A.;Marco;Sur;Ringo;212403;27;Juguetes;23/09/2015;7866,777778;Alta
+Cusco;Peru;San Martin Inc;Nora;Sur;Ringo;69112;40;Juguetes;01/09/2015;1727,8;Bajo
+Cusco;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;235674;17;Electrodomesticos;17/09/2015;13863,17647;Alta
+Cusco;Peru;San Fernando, S.A.;Nora;Sur;Ringo;177093;17;Accesorios;24/09/2015;10417,23529;Media
+Cusco;Peru;CALATEL PERU;Nora;Sur;John;205879;34;Electrodomesticos;30/09/2015;6055,264706;Alta
+Cusco;Peru;IFH Peru LTD;Maria;Norte;John;116209;33;Calzado;30/09/2015;3521,484848;Media
+Cusco;Peru;Minera Aventurera;Victor;Norte;John;93476;36;Accesorios;25/09/2015;2596,555556;Bajo
+Cusco;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;142317;39;Accesorios;17/09/2015;3649,153846;Media
+Cusco;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;246301;37;Juguetes;25/09/2015;6656,783784;Alta
+Cusco;Peru;Sociedad de Mineria Nueva;Edwin;Sur;George;246738;26;Electrodomesticos;23/09/2015;9489,923077;Alta
+Cusco;Peru;SCOTIABANK PERU;Edwin;Norte;Ringo;70209;30;Viajes;28/09/2015;2340,3;Bajo
+Cusco;Peru;CONFECCIONES TEXTIMAX S.A.;Rosa;Sur;Ringo;203127;33;Juguetes;21/09/2015;6155,363636;Alta
+Cusco;Peru;Pluspetrol Peru Corporation, S.A.;Nora;Sur;Ringo;149228;22;Electrodomesticos;15/09/2015;6783,090909;Media
+Cusco;Peru;Minera Hatun Exitokuna;Rosa;Sur;Ringo;118715;33;Electrodomesticos;15/09/2015;3597,424242;Media
+Cusco;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;223565;42;Accesorios;17/09/2015;5322,97619;Alta
+Cusco;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;217457;18;Accesorios;17/09/2015;12080,94444;Alta
+Cusco;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;215492;15;Accesorios;17/09/2015;14366,13333;Alta
+Cusco;Peru;RIMAC Corp;Victor;Norte;John;245319;21;Juguetes;30/09/2015;11681,85714;Alta
+Cusco;Peru;Nissan Maquinarias, S.A.;Marco;Sur;Ringo;104265;36;Juguetes;23/09/2015;2896,25;Media
+Cusco;Peru;Banco Interno;Edwin;Norte;John;234136;15;Calzado;15/09/2015;15609,06667;Alta
+Cusco;Peru;Sociedad de Mineria Nueva;Edwin;Sur;George;114323;20;Accesorios;23/09/2015;5716,15;Media
+Cusco;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;65032;21;Accesorios;17/09/2015;3096,761905;Bajo
+Cusco;Peru;Americana de Contactos;Victor;Norte;Ringo;143315;15;Calzado;30/09/2015;9554,333333;Media
+Cusco;Peru;Operadores de Gas;Nora;Sur;Ringo;121533;23;Electrodomesticos;15/09/2015;5284,043478;Media
+Cajamarca;Peru;Universidad La Modernidad;Marco;Sur;Ringo;203453;30;Juguetes;25/09/2015;6781,766667;Alta
+Cajamarca;Peru;Minera Aventurera;Victor;Norte;John;227032;17;Juguetes;25/09/2015;13354,82353;Alta
+Cajamarca;Peru;Banco Interno;Nora;Sur;Ringo;81059;32;Electrodomesticos;15/09/2015;2533,09375;Bajo
+Cajamarca;Peru;Banco Maya;Marco;Sur;Ringo;142751;32;Accesorios;30/09/2015;4460,96875;Media
+Cajamarca;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;179217;17;Accesorios;17/09/2015;10542,17647;Media
+Cajamarca;Peru;IFH Peru LTD;Maria;Norte;John;84596;38;Juguetes;30/09/2015;2226,210526;Bajo
+Cajamarca;Peru;Compañia Minera Poderosa, S.A.;Nora;Sur;Ringo;215842;37;Juguetes;30/09/2015;5833,567568;Alta
+Cajamarca;Peru;Nissan Maquinarias, S.A.;Marco;Sur;Ringo;246658;20;Juguetes;23/09/2015;12332,9;Alta
+Cajamarca;Peru;San Martin Inc;Nora;Sur;Ringo;76492;28;Accesorios;01/09/2015;2731,857143;Bajo
+Cajamarca;Peru;San Martin Inc;Nora;Sur;Ringo;194703;21;Accesorios;01/09/2015;9271,571429;Media
+Cajamarca;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;130971;16;Accesorios;17/09/2015;8185,6875;Media
+Cajamarca;Peru;Delosi, S.A.;Marco;Sur;Ringo;230557;24;Electrodomesticos;30/09/2015;9606,541667;Alta
+Piura;Peru;Banco Maya;Marco;Sur;Ringo;81342;34;Juguetes;30/09/2015;2392,411765;Bajo
+Piura;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;132626;25;Accesorios;17/09/2015;5305,04;Media
+Piura;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;63646;21;Juguetes;17/09/2015;3030,761905;Bajo
+Piura;Peru;EUROMOTORS S.A.;Marco;Sur;Ringo;217548;30;Accesorios;30/09/2015;7251,6;Alta
+Piura;Peru;PERUFARMA S.A.;Nora;Sur;Ringo;58809;21;Electrodomesticos;30/09/2015;2800,428571;Bajo
+Piura;Peru;DROKASA PERU S.A.;Rosa;Sur;Ringo;196700;42;Juguetes;30/09/2015;4683,333333;Media
+Piura;Peru;SCOTIABANK PERU;Victor;Norte;Ringo;103421;42;Accesorios;30/09/2015;2462,404762;Media
+Piura;Peru;San Martin Inc;Nora;Sur;Ringo;71008;21;Electrodomesticos;01/09/2015;3381,333333;Bajo
+Piura;Peru;San Fernando, S.A.;Nora;Sur;Ringo;183822;18;Accesorios;24/09/2015;10212,33333;Media
+Piura;Peru;Americana de Contactos;Victor;Norte;John;167160;17;Calzado;30/09/2015;9832,941176;Media
+Piura;Peru;Minera Aventurera;Victor;Norte;John;94315;21;Juguetes;25/09/2015;4491,190476;Bajo
+Piura;Peru;RIMAC Corp;Victor;Norte;John;52010;41;Juguetes;30/09/2015;1268,536585;Bajo
+Piura;Peru;Banco Maya;Marco;Sur;Ringo;213876;27;Juguetes;16/09/2015;7921,333333;Alta
+Piura;Peru;Sociedad de Mineria Nueva;Edwin;Sur;George;64161;42;Juguetes;23/09/2015;1527,642857;Bajo
+Piura;Peru;INCA TOPS S.A.;Nadia;Sur;Ringo;125873;32;Juguetes;30/09/2015;3933,53125;Media
+Piura;Peru;Minera Aventurera;Victor;Norte;John;189120;33;Calzado;25/09/2015;5730,909091;Media
+Piura;Peru;NGRESTAURANTS;Victor;Norte;John;177900;42;Viajes;30/09/2015;4235,714286;Media
+Piura;Peru;CONFECCIONES TEXTIMAX S.A.;Rosa;Sur;Ringo;118792;24;Juguetes;21/09/2015;4949,666667;Media
+Piura;Peru;San Martin Inc;Nora;Sur;Ringo;110943;32;Juguetes;01/09/2015;3466,96875;Media
+Piura;Peru;Diners Club Peru, S.A;Nora;Sur;Ringo;197143;15;Juguetes;17/09/2015;13142,86667;Media
+Piura;Peru;CLINICA INTERNACIONAL S.A.;Victor;Norte;John;141747;38;Juguetes;25/09/2015;3730,184211;Media
+Piura;Peru;RIMAC Corp;Victor;Norte;John;137392;42;Accesorios;30/09/2015;3271,238095;Media
+Piura;Peru;Compañia Minera Poderosa, S.A.;Nora;Sur;Ringo;100104;18;Accesorios;30/09/2015;5561,333333;Media
+Piura;Peru;Delosi, S.A.;Marco;Sur;Ringo;196880;31;Accesorios;30/09/2015;6350,967742;Media
+Piura;Peru;CORPORACION GRAFICA NAVARRETE;Nadia;Sur;Ringo;76962;31;Electrodomesticos;24/09/2015;2482,645161;Bajo
+Piura;Peru;Seguros Internos SAC;Edwin;Norte;John;206331;23;Calzado;30/09/2015;8970,913043;Alta
+Piura;Peru;DROKASA PERU S.A.;Nadia;Sur;John;172224;29;Electrodomesticos;30/09/2015;5938,758621;Media
+Piura;Peru;CERAMICOS PERUANOS S.A.;Nadia;Sur;Ringo;166110;38;Accesorios;22/09/2015;4371,315789;Media
+Piura;Peru;JJC Contratistas;Nadia;Sur;Ringo;180222;16;Viajes;30/09/2015;11263,875;Media
+Piura;Peru;Banco Maya;Marco;Sur;Ringo;121164;35;Juguetes;30/09/2015;3461,828571;Media
+Piura;Peru;IFH Peru LTD;Maria;Norte;John;173915;31;Accesorios;30/09/2015;5610,16129;Media
+Piura;Peru;IFH Peru LTD;Maria;Norte;John;74471;24;Juguetes;30/09/2015;3102,958333;Bajo
+Piura;Peru;Union de Concreteras S.A.;Marco;Sur;Ringo;169409;41;Electrodomesticos;30/09/2015;4131,926829;Media

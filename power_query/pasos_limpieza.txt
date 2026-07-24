@@ -1,0 +1,29 @@
+PASOS DE LIMPIEZA
+
+Objetivo:
+Dejar la base de ventas limpia, ordenada y lista para el análisis en Excel, SQL y Power BI.
+
+1. Importación de datos
+Se cargó el archivo original de ventas en Excel.
+
+2. Revisión de estructura
+Se verificó que las columnas principales fueran:
+Lugar, Cliente, Vendedor, Territorio, Fecha, Socio, Ventas, Cantidad y Producto.
+
+3. Cambio de tipos
+Se ajustaron los tipos de datos para evitar errores en el análisis:
+- Fecha como fecha
+- Ventas como número
+- Cantidad como número entero
+
+4. Limpieza de texto
+Se aplicó recorte de espacios en columnas de texto como Cliente, Vendedor, Socio y Producto.
+
+5. Verificación de calidad
+Se revisaron valores vacíos, duplicados y formatos inconsistentes.
+
+7. Validación final
+Se comprobó que los datos quedaran listos para tablas dinámicas, segmentadores y gráficos.
+
+8. Carga final
+Se guardó la tabla limpia para continuar con el análisis.
